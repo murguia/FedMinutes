@@ -1,0 +1,370 @@
+MINUTES 
+Board of Governors of the Federal Reserve System 
+October 14, 1969 
+
+3133 
+Minutes of the Board of Governors of the Federal Reserve 
+System on Tuesday, October 14, 1959. The Board met in the Board Room 
+at 10:00 a.m. 
+PRESENT: Mr. Martin, Chairman 
+Mr. Robertson, Vice Chairman 
+Mr. Mitchell 
+Mr. Daane 
+Mr. Maisel 
+Mr. Brimmer 
+Mr. Sherrill 
+Mr. Kenyon, Deputy Secretary 
+Mr. Partee, Adviser to the Board and Director, 
+Division of Research and Statistics 
+Mr. Solomon, Adviser to the Board and Director, 
+Division of International Finance 
+Mr. Hackley, Assistant to the Board 
+Mr. Cardon, Assistant to the Board 
+Mr. Coyne, Special Assistant to the Board 
+Mr. Nichols, Special Assistant to the Board 
+Mr. Hexter, General Counsel 
+Mr. Farrell, Director, Division of Federal 
+Reserve Bank Operations 
+Mr. Johnson, Director, Division of Personnel 
+Administration 
+Mr. Kelleher, Director, Division of Administrative 
+Services 
+Mr. Kakalec, Controller 
+Mr. Slocum, Director, Division of Data Processing 
+Mr. Shay, Assistant General Counsel 
+Mr. Reynolds, Associate Director, Division of 
+International Finance 
+Mr. Norwood, Adviser, Division of International 
+Finance 
+Mr. Pizer, Associate Adviser, Division of 
+International Finance 
+Mr. Kiley, Associate Director, Division of Federal 
+Reserve Bank Operations 
+Mr. Mcintosh, Assistant Director, Division of Federal 
+Reserve Bank Operations 
+Mr. Walcutt, Assistant Director, Division of Federal 
+Reserve Bank Operations 
+
+3134 
+10/14/76 
+-2-
+Mr. Leavitt, Deputy Director, Division of 
+Supervision and Regulation 
+Mr. Hart, Assistant Director, Division of 
+Personnel Administration 
+Mr. Halley, Assistant Controller 
+Mr. Singleton, Associate Director, Division 
+of Data Processing 
+Mr. Watt, Systems Engineer, Division of Data 
+Processing 
+Mr. Sherman, Consultant to the Board 
+Mrs. Semia, Technical Assistant, Office of the 
+Secretary 
+Other supporting staff 
+GAP audit. Members of the Board had been furnished copies of a 
+draft letter that would respond to a suggestion by Chairman Patman of the 
+House Committee on Banking and Currency that, since Chairman Martin's 
+term would expire early next year, it would be appropriate to have a 
+general audit of the Federal Reserve by the General Accounting Office. 
+Discussion at today's meeting resulted in agreement upon a change 
+in the draft, after which the letter was unanimously approved in the form 
+attached as Item No. 1. 
+VFCR. In a memorandum dated October 10, 1969, Governor Brimmer 
+presented progress reports regarding the Voluntary Foreign Credit 
+Restraint Program with respect to commercial banks and nonbank institutions 
+and appraised the need for modifications in the program for 1970. He 
+recommended and explained the terms that he thought appropriate for the 
+program for the coming year. 
+During discussion at today's meeting Governor Brimmer commented 
+on the several alternatives he had described in his memorandum, and other 
+
+O i 
+O l u i } 
+10/14/69 
+-3-
+members of the Board expressed views regarding the structure Governor 
+Brimmer had advocated for the program; some divergence of view was 
+brought out regarding the philosophy underlying the effort. 
+At the conclusion of the discussion it was agreed that during 
+his negotiations with the other participant organizations regarding 
+the terms of the 1970 program Governor Brimmer would keep in mind the 
+tenor of today's discussion. 
+A number of staff members withdrew at this point. 
+Thrift Plan. Pursuant to the recommendation of the Conference 
+of Presidents the Board, on September 4, 1969, had approved in sub-
+stance the establishment of a voluntary Thrift Plan, the details of 
+which were now being worked out, in which the employees of the Federal 
+Reserve Banks could participate. The Board had requested Mr. Sherman 
+and the Division of Personnel Administration to submit analytical com-
+ments to assist the Board in determining whether its employees should 
+be permitted to participate in the plan and, if so, on what basis. 
+Responses to that request were contained in memoranda of October 7 from 
+the Division of Personnel Administration and of October 13 from 
+Mr. Sherman. Attached to Mr. Sherman's memorandum was a summary of the 
+main features of the Thrift Plan. 
+(A copy of the summary is attached 
+a s Item No. 2.) A principal feature was provision for matching employer 
+contributions equal to 25 per cent of the employee's contribution up to 
+6 per cent of his pay (an employee's over-all contributions were limited 
+
+3136 
+10/14/69 
+-4-
+to 10 per cent of his pay). The questions explored by Mr. Sherman and 
+the Division of Personnel Administration were (1) whether the Thrift 
+Plan should be extended to employees of the Board of Governors, and, 
+if so, (2) whether the Board should provide the 25 per cent matching 
+contribution up to 6 per cent of the employee's salary. Mr. Sherman 
+recommended favorably with respect to both questions; the Division of 
+Personnel Administration made an affirmative recommendation with respect 
+to the first question but recommended against the matching contribution by 
+the Board. 
+Discussion at today's meeting indicated general agreement that 
+the Thrift Plan should be made available to Board employees, but there 
+was some variation among tentative positions taken by members of the 
+Board with respect to the question of matching contributions. Governors 
+Robertson and Maisel were opposed to such contributions on the ground 
+that they represented a benefit that was not available to Civil Service 
+employees, whose benefits were largely paralleled by those provided for 
+Board employees. Other members of the Board were divided between 
+favoring the matching contributions and holding that question in abeyance 
+until it was known whether pending legislation would be enacted under 
+which Civil Service retirement benefits would be calculated according 
+to the average of the three successive years of highest salary received 
+rather than the "high five" average as at present. The Board agreed to 
+revert to the subject in limited session later during this meeting. 
+
+3137 
+10/14/69 
+-5-
+Messrs. Gramley and Smith, Associate Director and Adviser, 
+respectively, the Division of Research and Statistics, then joined the 
+meeting. 
+Computers. Staff members of the Division of Data Processing 
+described, with the assistance of visual aids, changes in computer 
+equipment that they considered necessary to support the Board's role 
+in Federal Reserve computer services. In essence, they recommended the 
+following: 
+(1) replacement of the present model 50 with an IBM/360 
+model 65; (2) addition of terminals to the system; and (3) installation 
+of a 360 model 40 in the Culpeper emergency relocation center to provide 
+for (a) national emergency computer facility, (b) interface to the com-
+munications network, and (c) pick-up to and expansion for the Board's 
+major system. The expected costs were as follows: 
+Model 65 (12 months) to replace the 
+model 50 
+$1,106,568 
+Terminal devices 
+126,770 
+Model 40 (2 months) 
+51,892 
+Model 50 (2 months) for cutover 
+100,046 
+Total for calendar year 1970 
+$1,385,276 
+Present model 50 cost 
+$650,832 
+After a discussion during which the data processing staff responded 
+to various questions raised by members of the Board, the Board agreed to 
+proceed on the basis outlined, with the understanding that the situation 
+would be re-evaluated from time to time. 
+
+3138 
+10/14/69 
+-6-
+All staff members who had been present except Messrs. Kenyon, 
+Hackley, Johnson, and Hart withdrew from the meeting at this point. 
+Holdings of equity securities. The Board referred to 
+Governor Sherrill, with power to act, a memorandum dated June 4, 1969, 
+from the Division of Personnel Administration listing holdings of 
+equity securities of banks, bank affiliates, or Government securities 
+dealers reported by Board employees in response to a memorandum sent 
+to all employees under date of August 16, 1968, following revision of 
+the Board's Rules Regarding Employee Responsibilities and Conduct in 
+June 1968. 
+Thrift Plan. Following up on the discussion earlier during 
+this meeting with regard to the proposed Thrift Plan for Employees of 
+the Federal Reserve System, scheduled to be established January 1, 1970, 
+the Board now reached certain decisions. 
+First, it was agreed unanimously that participation in the 
+Thrift Plan should not be made avaibable to members of the Board of 
+Governors. 
+Second, by unanimous vote the Board authorized voluntary 
+participation by employees of the Board of Governors in the Thrift 
+Plan. 
+Third, by unanimous vote the Board approved payment by the 
+Board of an appropriate portion of the costs of administrative and 
+investment advisory services involved in operating the Thrift Plan. 
+
+( € 
+10/14/69 
+-7-
+Fourth, with Governors Robertson and Maisel dissenting, the 
+Board approved making a matching contribution of 25 cents for each 
+dollar placed in the Thrift Plan by a participating employee up to 
+a maximum contribution equal to 1-1/2 per cent of the participating 
+employee's basic salary. 
+f 
+•• L i 
+•• 
+.'.) 
+' 
+. 
+( . . 
+The meeting then adjourned. 
+Deputy Secretary / 
+
+3140 
+BOARD OF GOVERNORS: 
+O f T H E 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , D. C. 
+2 0 S 5 I 
+Item No. 1 
+10/14/69 
+O F F I C E O F T H E 
+C H A I R M A N 
+October 14, 1969. 
+The Honorable Wright Patman, 
+Chairman, 
+Committee on Banking and Currency, 
+House of Representatives, 
+Washington, D. C. 
+20515 
+Dear Mr. Chairman: 
+This is in reply tc your letter of September 29 in which 
+you suggest that since my term of office as a member of the Board 
+will expire soon, the General Accounting Office should conduct a 
+"general audit of the Federal Reserve." 
+As you recognize in your letter, I do not share your 
+belief that the System should be subject to audit by the GPO in 
+addition to the present audit procedures. The System is now 
+subject to independent audit and examination procedures that arc 
+unexcelled in any other organization. 
+These procedures have been established under statutory 
+authority from the Congress, which has made the Board responsible 
+for determining its own internal management policies. The Congress 
+in 1933 terminated the authority for GAO audit of the Board; this 
+was a sound decision, in my judgment, and 1 would not wish to take 
+it upon myself to request the Comptroller General to conduct such 
+an audit. 
+With all good wishes, 
+Sincerely you^s, 
+Wm. McC. Martin, Jr. 
+\J 
+
+3141 
+Item No. 2 
+10/14/69 
+Summary of main feature;of 
+^ 
+Thrift Plan for Employees of the 
+Federal Reserve System 
+Establishment of the Thrift Plan has been given substantive 
+approval by the Board of Governors and by the Conference of Presidents 
+of the Federal Reserve Banks. Some of the boards of directors of the 
+Reserve Banks have also given substantive approval to the proposed Plan. 
+The detailed language of the Plan is still being refined but is expected 
+to be available in virtually final form by the middle of October. The 
+Plan will be entirely separate from the Retirement System as a matter 
+of legal structure and operation, but its establishment is closely 
+related to the revision of the Bank Plan of the Retirement System, also 
+to be made effective January 1, 1970, and to the expanded program of 
+insured benefits for Federal Reserve Bank employees in the event of 
+death in active service or disability of a total and permanent nature, 
+which in practice means disability continuing for an extended period 
+to a degree that prevents an individual employee from performing the 
+duties of his cr some other job. 
+The Thrift Plan is to be substantially similar in its 
+objectives and form to those established by a good many of the more 
+progressive employers in recent years. Its purpose is to encourage 
+and facilitate systematic savings on the part of employees on a volun-
+tary basis so as to help provide for their support after retirement. 
+It is to be qualified for tax benefits within the meaning of Sections 
+401(a) and 501(a) of the Internal Revenue Code of 1954. This means in 
+general that earnings on funds placed in the trust will not be taxed 
+to the member until they are actually distributed to him and then, 
+depending upon the method of settlement, they may be taxed as long-t^rm 
+capital gains. 
+Participation in the Thrift Plan is to be voluntary and any 
+regular employee in service on January 1, 1970 who is working more 
+than 15 hours a week would be eligible for membership. 
+Persons employed 
+after that date would become eligible after having completed a year of 
+continuous service. Members will have the choice of placing their con-
+tributions in either a Fixed Income F-jnd or in an Equity Fund, in 
+multiples of 25 per cent of the contributions made. Unless an effective 
+designation is made bv the member for equities, all contributions will 
+be invested in the Fixed Income Fund. Members may change the direction 
+of their investments on the first day of any month once during each 
+Plan year by filing notice at least 60 days prior to the date the 
+change is to be effective. 
+
+-2-
+C/ J..v 1 
+Member current contributions to the Thrift Plan may not 
+exceed 10 per cent of basic salary and, in the case of employees of 
+the Federal Reserve Banks, substantive approval has been given by the 
+Board of Governors and the Conference of Presidents to matching employer 
+contributions of one-fourth of the member's current contributions of 
+not more than 6 per cent of his pay. Member contributions would be 
+vested at all times and employer contributions would become vested pro-
+gressively, that is, 20 per cent of the employer contributions would 
+be vested in the first Plan year in which the member participated, 20 
+per cent in the second, and so on until 100 per cent is vested in'the 
+5th Plan year. Thereafter, all employer contributions for the indivi-
+dual member who has participated continuously in the Plan for more than 
+four full Plan years would be vested. The Plan year would be a calendar 
+year beginning January 1, 1970. 
+Certain penalties would apply for members withdrawing funds 
+from their accounts, in accordance with Internal Revenue Service require-
+ments, and forfeitures of employer contributions in the event of persons 
+withdrawing from the Plan or terminating service with the Reserve Banks 
+prior to vesting would accrue to the employer--not to the member. 
+Administration of the Thrift Plan is to be placed in a five 
+member committee to be known as the "Administrative Committee of the 
+Thrift Plan fcr Employees of the Federal Reserve System." One such 
+member is to be selected by the Board of Governors and the remaining 
+four members are to be selected by the Presidents of the Federal Reserve 
+Banks, all for terms of three years. As the initial members of the 
+Administrative Committee, the Board has selected Governor Maisel and 
+the Presidents have selected Messrs. Bopp, Francis, Galusha, and Hayes. 
+At this point it should be noted that the Administrative 
+Committee has selected Equitable Life Assursnce Society of the United 
+States to administer the Thrift Plan and to manage the Fixed Income 
+Investment Fund of that Plan. (This has been done by a Letter of • 
+Intent subject, of course, to final completion and formal approval of 
+the Pla n and Trust Agreement documents, and an appropriate contract 
+with Equitable.) 
+In terms of costs, it is possible to estimate roughly the 
+total expense that will be incurred by the Federal Reserve Banks under 
+several assumed levels of employee participation. For example, if 80 
+per cent of the approximately 20,000 Bank employees participate in the 
+Plan with an average of 4 per cent of basic salary as their contribution 
+rate, the matching contributions by the Reserve Banks would gross 1 per 
+cent of payroll for those employees or about $1.2 million a year on a 
+payroll of $150 million. Because of the waiting period that will be 
+required for new employees entering duty after January 1, 1970, potential 
+matching contributions might be lower than that figure even if a very 
+high level of participation is attained. In any -event, about one per cent 
+
+3143 
+-3-
+of the aggregate payroll of the Federal Reserve Banks would almost 
+certainly cover the matching contributions. 
+In addition to maturing contributions, the Board and the 
+Reserve Bank Presidents have approved the payment by the Banks of the 
+costs of administrative and investment advisory services for operating 
+the Plan, and these have been estimated under quotations received from 
+Equitable and others at something less than $100 thousand a year at the 
+end of five years, depending upon the level of participation. 
+The one per cent-of-payroll-cost to the 12 Banks for direct 
+contributions to the Thrift Plan may be compared with a contribution 
+rate of approximately 13 per cent of Bank payroll for costs of the 
+revised pension plan"and the expanded insurad benefit program for death 
+or disability in active service. These percentages of payroll do not 
+include the 4.8 per cent of payroll currently paid by the Banks for 
+salary covered under the Social Security Act, i.e., 4.8 per cent of 
+each employee's pay up to $7,800 a year. 
+October 2, 1969 

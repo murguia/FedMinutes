@@ -1,0 +1,563 @@
+Minutes for 
+October 11, 1967 
+To: 
+Members of the Board 
+From: 
+Office of the Secretary 
+Attached is a copy of the minutes of the 
+Board of Governors of the Federal Reserve System on 
+the above date. 
+It is not proposed to include a statement 
+with respect to any of the entries in this set of 
+minutes in the record of policy actions required to 
+be maintained pursuant to section 10 of the Federal 
+Reserve Act. 
+Should you have any question with regard 
+to the minutes, it will be appreciated if you will 
+advise the Secretary's Office. Otherwise, please 
+initial below. If you were present at the meeting, 
+your initials will indicate approval of the minutes. 
+If you were not present, your initials will indicate 
+only that you have seen the minutes. 
+Chairman Martin 
+Governor Robertson 
+Governor Mitchell 
+Governor Daane 
+Governor Maisel 
+Governor Brimmer 
+Governor Sherrill 
+k i l 
+
+3920 
+Minutes of the Board of Governors of the Federal Reserve 
+System on Wednesday, October 11, 1967. The Board met in the Board 
+Room at 10:00 a.m. 
+PRESENT: Mr. Martin, Chairman 
+Mr. Mitchell 
+Mr. Daane 
+Mr. Maisel 
+Mr. Brimmer 
+Mr. Sherman, Secretary 
+Mr. Kenyon, Assistant Secretary 
+Mr. Brill, Senior Adviser to the Board and 
+Director, Division of Research and Statistics 
+Mr. Solomon, Adviser to the Board and Director, 
+Division of International Finance 
+Mr. Molony, Assistant to the Board 
+Mr. Fauver, Assistant to the Board 
+Mr. Hackley, General Counsel 
+Mr. Farrell, Director, Division of Bank Operations 
+Mr. Solomon, Director, Division of Examinations 
+Mr. Kakalec, Controller 
+Mr. Byrne, Director, Division of Data Processing 
+Mr. Shay, Assistant General Counsel 
+Mr. Smith, Associate Adviser, Division of Research 
+and Statistics 
+Mr. Egertson, Assistant Director, Division of 
+Examinations 
+Mr. Rhinehart, Assistant Director, Division of 
+Data Processing 
+Mr. Forrestal, Special Assistant, Office of the 
+Secretary 
+Messrs. Lawrence and Greenspun, Economists, 
+Division of Research and Statistics 
+Reports on competitive factors. Unanimous approval was given 
+to the transmittal of a report to the Comptroller of the Currency on 
+the competitive factors involved in the proposed merger of The Lincoln 
+National Bank of Chelsea, Chelsea, Massachusetts, into Commonwealth 
+National Bank, Boston, Massachusetts. The conclusion read as follows: 
+
+«. V r L w 
+] 
+10/11/67 
+-2-
+There is little, if any, competition existing 
+between Commonwealth National Bank, Boston, and Lincoln 
+National Bank, Chelsea, although there is some potential 
+for competition between them in view of State branching 
+laws. Overall, the effect of the proposal on competition 
+would be slightly adverse. 
+After discussion, a report on the competitive factors involved 
+in the proposed merger of The Hamlin National Bank of Holcomb, Holcomb, 
+New York, into The Canandaigua National Bank and Trust Company, Canan-
+daigua, New York, was approved unanimously for transmittal to the Comp-
+troller of the Currency. 
+In the form in which approved, the conclusion 
+read as follows: 
+The proposed merger of The Hamlin National Bank of 
+Holcomb, Holcomb, New York, and The Canandaigua National 
+Bank and Trust Company, Canandaigua, New York, would elim-
+inate the minimal amount of competition existing between 
+them and a more significant amount of potential competi-
+tion; however, the latter possibility seems remote in view 
+of the common ownership and management. 
+It would increase 
+the Canandaigua bank's already dominant position in Ontario 
+County and eliminate an alternative source of banking ser-
+vices. 
+On the other hand, the merger would probably pro-
+vide in the Holcomb area more effective competition to the 
+major banks that compete in the county. 
+Overall, the effect 
+of the proposal on competition would not be adverse. 
+Unanimous approval was also given to the transmittal to the 
+Comptroller of the Currency of a report on the competitive factors 
+involved in the proposed merger of The Bank of Wendell, Wendell, North 
+Carolina, into First Union National Bank of North Carolina, Charlotte, 
+North Carolina. 
+The conclusion read as follows: 
+There appears to be little competition existing 
+between The Bank of Wendell and First Union National Bank 
+of North Carolina, Charlotte, and potential for more com-
+petition between them is limited. 
+The overall competitive 
+effect of the proposal would be slightly adverse. 
+
+10/11/67 
+-3-
+Statement of policy on computer applications. 
+There had been 
+distributed a memorandum dated October 10, 1967, from the Computer Uses 
+and Procedures Committee (which included Governors Mitchell and Sherrill 
+at Board level) suggesting two amendments to the Board's August 11, 1966, 
+statement of policy on computer applications within the Federal Reserve 
+System. 
+The memorandum indicated that the Committee was conducting an 
+intensive review of the Board's data processing facilities, measured in 
+terms of the relationships between available resources and the require-
+ments of the Board's research and statistical programs. As the study 
+proceeded, a number of policy questions would be brought before the 
+Board for consideration, either in connection with the 1968 budget or 
+otherwise. Meanwhile, the Committee had reviewed the Board's August 
+1966 statement and recommended the adoption by the Board of two amend-
+ments to that statement which the Committee considered appropriate at 
+this time. The suggested amendments were as follows: 
+1. Change the first sentence of the first paragraph on page 5 
+of the statement to read: 
+As a general policy, full-time programmers are to 
+be located in the Division of Data Processing and will 
+operate under its supervision. 
+2. 
+Insert after the first paragraph on page 5 of the statement 
+the following paragraph: 
+
+10/11/67 
+-4-
+3 9 2 3 
+The Board recognizes that effective application of 
+statistical and mathematical techniques to the solution 
+of problems confronting the Federal Reserve, and the use 
+of the computer for purposes other than routine, stan-
+dardized data processing, often requires that the analyst 
+himself develop considerable capability in computer tech-
+nology. This capability includes--but goes well beyond--
+knowledge of advanced programming systems. 
+It is appro-
+priate, therefore, that expertise in computer technology 
+and applications be housed not only in the Division of 
+Data Processing but also in other divisions. 
+Following comments by Governor Mitchell on the above described 
+recommendations, Governor Maisel inquired whether significant changes 
+in policy were implied in the amendments, particularly since personnel 
+appeared to be involved. Governor Mitchell commented that the original 
+statement had, in effect, established a "closed shop" as far as program-
+ming was concerned, but that the proposed amendments retreated somewhat 
+from that position. Mr. Brill commented that the proposed changes in 
+the statement more or less recognized conditions as they presently 
+existed. 
+In his view, neither amendment would result in substantive 
+changes in operating practices. Mr. Byrne indicated that the amend-
+ments were acceptable to the Data Processing Division. 
+In response to a question by Governor Daane, Mr. Brill stated 
+that the second amendment contemplated, among other things, continua-
+tion of the training program in computer technology for users. 
+Governor 
+Mitchell observed that many of the new economists hired by the Board, 
+as well as others in the research divisions, had considerable expertise 
+in the application of computer techniques to research projects. 
+Such 
+
+3,924. 
+10/11/67 
+-5-
+persons would have the opportunity of continuing to develop their 
+capabilities along those lines. 
+Governor Mitchell, in reply to a question by Governor Brimmer, 
+stated that access to the computer was being extended on a limited basis 
+to others than personnel in the Division of Data Processing, although 
+control of machine time remained with the Director of that Division. 
+In substance, a modified "closed shop" policy was in effect as far as 
+access to the machine was concerned. 
+Governor Brimmer inquired about the extent of implementation 
+of the data processing policies adopted by the Board in August 1966, 
+and Governor Mitchell indicated that further reports to the Board by 
+the Computer Uses and Procedures Committee were in process. He said 
+that a description of projects requiring computer time was being pre-
+pared and that in a few weeks the Board should be in a position to 
+review the scope of the work being done and what priorities needed to -
+be established. 
+A backlog existed because there were more computer 
+demands than could be accommodated, even with some supplementation of 
+resources by outside programming contracts. 
+The proposed amendments to the policy statement of August 11, 
+1966, were then approved unanimously. 
+Separation of coin at Federal Reserve Banks (Item No. 1). 
+There 
+had been distributed a letter dated October 10, 1967, from Assistant 
+Secretary of the Treasury Wallace to the Board regarding the policy 
+
+3925 
+10/11/67 
+-6-
+adopted in July 1967 with respect to the distribution and separation of 
+dimes and quarters. That policy was outlined in a telegram to all Reserve 
+Banks dated July 18, 1967. 
+The letter from the Treasury indicated that because of the rapid 
+inventory buildup of mixed circulated dimes and quarters at the Federal 
+Reserve Banks and branches, and at the Mint, all facilities were quickly 
+reaching maximum capacity. The Treasury recommended that the function 
+of separating the silver and clad coins be assigned to the Federal 
+Reserve Banks and branches. 
+It suggested that this procedure would 
+not only relieve the space problem but would eliminate the cost of 
+shipping the coin to the Mint and the necessity for returning the cir-
+culated clad coin to the Reserve Banks. 
+In addition, the Treasury letter expressed the hope that this 
+operation could begin at the Reserve Banks by December 15, 1967, and 
+that the Banks could assume the cost ($4,000 each) of 25 authenticating 
+machines, other than the 14 American Machine and Foundry machines, which 
+had been referred to in the July statement concerning coin distribution 
+but on which delivery would not begin until January 1968. The substi-
+tute machines, while slower, were simpler in design and cheaper; it was 
+hoped that at least 10 would be available by December 15. 
+Mr. Farrell, in reviewing the Treasury's letter, stated that 
+while the separation of coins at the Reserve Banks would require more 
+work on their part, he believed the request to be an appropriate one. 
+
+- > Q O fZ 
+10/11/67 
+-7-
+He recommended that a letter be addressed to all Reserve Banks indicat-
+ing that in the Board's opinion the request was appropriate, and suggest-
+ing that the detailed arrangements for acquisition and placement of 
+separating machines could most effectively be handled by the Presidents' 
+Conference through its Committee on Currency and Coin. 
+With respect to the machines that the Treasury now suggested be 
+purchased by the Reserve Banks, Governor Brimmer noted that the manu-
+facturer apparently wanted a 3-month period to deliver more than the 
+first 10 machines. He asked whether that was sufficient and also 
+whether the recommended program was intended to be only an interim 
+arrangement. Mr. Farrell replied that the delivery time was not suffi-
+cient, but that the Treasury had told him this morning that it hoped 
+25 machines could be made available in 60 days. He added that the 
+machines, although relatively slow, could probably be useful for 3 or 
+4 years, particularly at some branches. 
+The Board then approved unanimously the transmittal of a letter 
+to the Presidents of all Reserve Banks advising of receipt of the Trea-
+sury letter, indicating the Board's belief that the request contained 
+therein was appropriate, and suggesting that the implementation of the 
+proposal be arranged by the Presidents' Conference through the Committee 
+on Currency and Coin. A copy of the letter subsequently transmitted to 
+the Reserve Banks is attached as Item No. 1. 
+Most members of the staff withdrew at this point, and there 
+ensued a discussion of developments in connection with the voluntary 
+
+10/11/67 
+-8-
+3927 
+foreign credit restraint program for financial institutions, as pro-
+posed for 1968, principally on the basis of a report by Governors Daane 
+and Brimmer. 
+It was understood that the matter would be considered fur-
+ther by the Board after Governor Robertson's return. 
+The meeting then adjourned. 
+Secretary's Notes: A letter was sent today 
+to The Chase Manhattan Bank (National Asso-
+ciation), New York, New York, acknowledging 
+receipt of notice of its intent to establish 
+an additional branch in Germany, to be located 
+in Munich. 
+On October 11, 1967, actions were taken on 
+behalf of the Board under delegated authority 
+as indicated by the following letters, copies 
+of which are attached under the respective 
+item numbers indicated: 
+By the Director of the Division of Examinations 
+Item No. 
+Letter to the Federal Reserve Bank of San 
+2 
+Francisco approving the appointment of 
+Timothy L. Ernst and Ronald C. Beckman as 
+assistant examiners. 
+Letter to the Federal Deposit Insurance Cor- 
+3 
+poration regarding the application of Bremen 
+State Bank, Tinley Park, Illinois, for con-
+tinuation of deposit insurance after with-
+drawal from membership in the Federal Reserve 
+System. 
+Letter to the Federal Deposit Insurance Cor- 
+4 
+poration regarding the application of Pawnee 
+County Bank, Pawnee City, Nebraska, for con-
+tinuation of deposit insurance after withdrawal 
+from membership in the Federal Reserve System. 
+
+M R P 
+•Wf: 
+-V 
+10/11/67 
+-9-
+By the Federal Reserve Bank of Philadelphia 
+Letter to The Schuylkill Haven Trust Company, 
+Schuylkill Haven, Pennsylvania, waiving the 
+requirement of six months' notice of with-
+drawal from membership in the Federal Reserve 
+System. 
+8928 
+Item No. 
+£ / y i / 
+Secretary 
+> • (• 
+i' 
+mm • 
+
+BOARD OF GOVERNORS 
+• F 
+T H E 
+FEDERAL RESERVE SYSTEM 
+WASHINGTON, 
+D. 
+C. 20551 
+Item No. 1 
+10/11/67 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O T H E 
+B O A R D 
+October 11, 1967. 
+Dear Sir: 
+Enclosed is a copy of a letter dated October 10, 1967, 
+from Assistant Secretary of the Treasury Wallace to the Board with 
+regard to the handling of dimes and quarters at the Reserve Banks. 
+As you will note from this letter, the Treasury has concluded that 
+it will have to call upon the Reserve Banks to assist the Mint in 
+separating the silver coin from the clad coin. 
+It expresses the 
+hope that this operation could begin at the Reserve Banks by 
+December 15, 1967, and that the Banks could assume the cost of 
+acquiring the separating machines. The separating machines that 
+the Treasury now suggests using are described in a "proposal" to 
+the Director of the Mint submitted by American Electronic Coin 
+Processing, Inc. under date of October 2, 1967; a copy of that 
+Proposal is also enclosed. 
+The Board believes that, under the circumstances, it is 
+appropriate for the Reserve Banks to undertake the separation 
+operation requested by the Treasury in its letter. It believes 
+that detailed arrangements for acquisition and placement of 
+separating machines could most effectively be handled by the 
+Presidents' Conference, through its Committee on Currency and 
+Coin, and it understands that Chairman Swan plans to discuss the 
+matter by telephone with Mr. Hickman, Chairman of that Committee. 
+Copies of this letter are being sent directly to each Reserve Bank 
+President because of the element of urgency indicated by the 
+Treasury in its letter. 
+Very truly yours, 
+Secretary. 
+Enclosure 
+T 0 THE PRESIDENTS OF ALL FEDERAL RESERVE BANKS 
+
+TREASURY DEPARTMENT 
+8 9 3 * * 
+WASHINGTON, D.C. 
+20220 
+I S U N T S t C R E T A R Y 
+. 
+* >
+:
+d — — ; •
+-
+* 
+O C T 1 0 1967'
+1 
+A > 7 
+To the Board of Governors of the Federal Reserve System 
+Gentlemen: 
+• 
+I wish to review with you the July 18, 1967, policy on distribution 
+of dimes and quarters, and thank you for the excellent cooperation the 
+Treasury is receiving in carrying out this policy. 
+I have been watching very closely, and with much concern recently, 
+the fast inventory buildup of mixed circulated climes and quarters at 
+the Federal Reserve Banks and Branches, and at the Mints. All facilities 
+are quickly reaching maximum capacity. 
+• ' 
+) 
+It is very clear now that the separating operation of this coin will 
+also have to be done at the Federal Reserve Banks and Branches. Not only 
+is this necessary due to the space problem, but it would eliminate the 
+cost of shipping the coin to the Mints, where no additional space is 
+expected to become available, and the necessity for returning the circulated 
+clad to the banks. 
+I would hope that this separation operation could begin at the banks 
+by December 15, 1967. 
+In addition to the fourteen American Machine and Foundry machines 
+referred to in the July statement, which will not begin delivery until 
+January, 1968, the Treasury recently witnessed the successful demonstration 
+°f another authenticating machine which is slower than the AMF prototype 
+being used at the Philadelphia Mint, but is much simpler in design and 
+operation, and of course mucli cheaper. At least ten or more of these 
+machines would be available for delivery by December 15, 1967. I hope 
+that the Federal Reserve Banks can assume the cost of these machines which 
+would be $4,000 each for the first 25 machines. A demonstration of the two 
+Machines referred to could be scheduled in Philadelphia in the near future. 
+I hope that you will promptly give serious consideration to this 
+u*gent matter. 
+Sincerely, 
+' 
+/ 
+'Robert A . Wallace 
+
+3 9 3 1 
+BOARD • F GOVERNORS 
+• F THE 
+Item No. 2 
+FEDERAL RESERVE SYSTEM 
+10/11/67 
+WASHINGTON, 
+D. 
+C. 20551 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O T H E 
+B O A R D 
+October 12, 1967. 
+Mr. Jrwin L. Jennings, Vice President, 
+Federal Reserve Bank of San Francisco, 
+San Francisco, California. 
+Dear Mr. Jennings: 
+In accordance with the requests contained in your 
+letters of October 6, 1967, the Director of the Division of 
+Examinations, on behalf of the Board of Governors under 
+delegated authority, approves the appointments of Timothy L 
+Ernst and Ronald C. Beckman as assistant examiners for the 
+i 
+Federal Reserve Bank of San Francisco, effective today. 
+Very truly yours, 
+(Signed) Elizabeth L. Carmichael 
+Elizabeth L. Carmichael, 
+Assistant Secretary. 
+
+RESfrV 
+BOARD OF GOVERNORS 
+• F T H E 
+FEDERAL RESERVE SYSTEM 
+WASHINGTON, 
+D. 
+C. 20551 
+Item No. 3 
+10/11/67 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O T H E 
+B O A R D 
+October 11, 1967 
+The Honorable K . A . Randall, Chairman, 
+Federal Deposit Insurance Corporation, 
+Washington, D. C. 
+20429 
+Dear Mr. Randall: 
+Reference is made to your letter of October 9, 1967, 
+concerning the application of the Bremen State Bank, Tinley 
+Park, Illinois, for continuance of deposit insurance after 
+withdrawal from membership in the Federal Reserve System. 
+Under delegated authority, the Director of the Division 
+of Examinations states, on behalf of the Board of Governors, that 
+there have been no corrective programs urged upon the bank, or 
+agreed to by it, which have not been fully consummated, and there 
+are no programs that the Director would advise be incorporated as 
+conditions of admitting the bank to membership in the Corporation 
+as a nonmember of the Federal Reserve System. 
+Very truly yours, 
+(Signed) Elizabeth L . Carmichael 
+Elizabeth L . Carmichael, 
+Assistant Secretary. 
+
+ySaSHSfe-. 
+BOARD DF G D V E R N D R 5 
+• F T H E 
+FEDERAL RESERVE SYSTEM 
+WASHINGTON, 
+D. 
+C. 20551 
+Item No. 4 
+10/11/67 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O 
+T H E 
+B O A R D 
+October 11, 1967 
+The Honorable K. A . Randall. Chairman, 
+* 
+» 
+Federal Deposit Insurance Corporation, 
+Washington, D. C. 
+20429 
+Dear Mr. Randall: 
+Reference is made to your letter of October 9, 1967, 
+concerning the application of the Pawnee County Bank, Pawnee 
+City, Nebraska, for continuance of deposit insurance after 
+withdrawal from membership in the Federal Reserve System. 
+Under delegated authority, the Director of the Division 
+of Examinations states, on behalf of the Board of Governors, that 
+there have been no corrective programs urged upon the bank, or 
+agreed to by it, which have not been fully consummated, and there 
+are no programs that the Director would advise be incorporated as 
+conditions of admitting the bank to membership in the Corporation 
+as a nonmember of the Federal Reserve System. 
+V* 
+Very truly yours, 
+(Signed) Elizabeth L . Carmichael 
+Elizabeth L . Carmichael, 
+Assistant Secretary. 
+
+FEDERAL RESERVE BANK OF 
+PHILADELPHIA 
+PHILADELPHIA, PENNSYLVANIA 1 9 1 0 1 
+Item No. 5 
+10/11/67 
+October 11, 1967 
+Board, of Directors 
+The Schuylkill Haven Trust Company 
+Schuylkill Haven, Pennsylvania 17972 
+Gentlemen: 
+Under date of Oct (J 
+signified its intention to wi 
+System and has r e q u e s t s waiver 
+such withdrawal. 
+institution has 
+Federal Reserve 
+months' notice of 
+On bifhal^of tHe Bfcard of Governors of the Federal 
+Reserve Systenf acting una^r a^legateaS^uthority, the Federal 
+Reserve Bank oKjh^^(lelphl\waWe6 the requirement of six 
+monthsL-aotice o l w S b d r a v a l y Uader the provisions of 
+the BSara^s Rjj^ulaiaon H, your institution may 
+irminatDsm or itp^membership at any time within 
+monrns from the\ata/6hat notice of intention to with-
+Upon surrender to the Federal Reserve Bank 
+the Federal Reserve Bank stock issued to 
+istitutUbn,(such stock will be cancelled and appropriate 
+Le thereon. 
+^ j ^ ^ h e date withdrawal takes place the certificate 
+membership should be returned to the Federal Reserve Bank 
+Philadelphia. 
+Very truly yours, 
+4 . a. Caqpfctll 
+Joseph R. Campbell 
+Vice President 

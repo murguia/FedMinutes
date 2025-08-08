@@ -1,0 +1,852 @@
+Minutes for 
+July 12, 1967 
+To: 
+Members of the Board 
+From: Office of the Secretary 
+Attached is a copy of the minutes of the 
+Board of Governors of the Federal Reserve System on 
+the above date. 
+It is not proposed to include a statement 
+with respect to any of the entries in this set of 
+minutes in the record of policy actions required to 
+be maintained pursuant to section 10 of the Federal 
+Reserve Act. 
+Should you have any question with regard 
+to the minutes, it will be appreciated if you will 
+advise the Secretary's Office. Otherwise, please 
+initial below. If you were present at the meeting, 
+your initials will indicate approval of the minutes. 
+If you were not present, your initials will indicate 
+only that you have seen the minutes. 
+Chairman Martin 
+Governor Robertson 
+Governor Mitchell 
+Governor Daane 
+Governor Maisel 
+Governor Brimmer 
+Governor Sherrill 
+—
+_
+_ 
+us 
+
+< 
+Minutes of the Board of Governors of the Federal Reserve 
+System on Wednesday, July 12, 1967. The Board met in the Board Room 
+at 10:00 a.m. 
+PRESENT: Mr. Martin, Chairman 
+Mr. Mitchell 
+Mr. Daane 
+Mr. Maisel 
+Mr. Sherrill 
+Mr. Sherman, Secretary 
+Mr. Bakke, Assistant Secretary 
+Mr. Cardon, Legislative Counsel 
+Mr. Fauver, Assistant to the Board 
+Mr. Hackley, General Counsel 
+Mr. Farrell, Director, Division of Bank 
+Operations 
+Mr. Solomon, Director, Division of Examinations 
+Mr. Johnson, Director, Division of Personnel 
+Administration 
+Mr. Kakalec, Controller 
+Mr. Byrne, Director, Division of Data Processing 
+Mr. Shepardson, Consultant to the Board 
+Miss Wolcott, Technical Assistant, Office of the 
+Secretary 
+Mr. Mcintosh, Senior Operations Analyst, Division 
+of Bank Operations 
+Approved items. The following items were approved unanimously 
+after consideration of background information that had been made avail-
+able to the Board. Copies are attached under the respective numbers 
+indicated. 
+Item No. 
+Telegram to the Presidents of the Federal 
+1 
+Reserve Banks and Vice Presidents in charge 
+of branches regarding rebagging of half 
+dollars. 
+Letter to the Federal Reserve Bank of Kansas 
+2 
+City approving a contract entered into between 
+the Bank and President Clay that would provide 
+him a minimum retirement allowance under certain 
+conditions. 
+
+J 2 7 8 6 
+7/12/67 
+-2-
+Cost of handling country checks (Item No. 3). There had been 
+distributed a draft of letter to President Hickman of the Federal 
+Reserve Bank of Cleveland relating to his request for a review by the 
+Board of the desirability of the existing practice of including postage 
+and expressage in the total cost per thousand items shown for country 
+checks for purposes of the Consolidated Statement of Expenses and 
+Functional Data compiled by the Board. For reasons set forth in a 
+letter to the Board dated June 22, 1967, President Hickman recommended 
+that the practice, inaugurated effective January 1, 1967, be discon-
+tinued. Part of President Hickman's concern appeared to stem from the 
+fact that the rating of the Cleveland Reserve Bank in unit cost com-
+parisons between Reserve Banks was lower when postage and expressage 
+charge costs were included. The matter had previously been the subject 
+of correspondence between President Hickman and Governor Mitchell, at 
+which time Governor Mitchell indicated that it was the intention of the 
+Board to show unit costs both with and without postage and expressage 
+charges. 
+The proposed reply would note the exchange of correspondence 
+between President Hickman and Governor Mitchell, indicate that the 
+Board concurred in the views expressed by Governor Mitchell in his 
+letter of December 6, 1966, and state that the Board saw no need to 
+change the existing reporting procedure. It would point out that the 
+Board considered the functional expense reports as being primarily 
+
+7/12/67 
+-3-
+intended to provide a basis for comparisons showing a Bank's costs over 
+a period of time and to determine whether cost trends were consistent 
+with experience at other Banks. When questions were raised by the com-
+parisons, the functional expense data would also provide a basis for 
+further investigations of the factors responsible for costs that seemed 
+out of line. The letter would further state that the Board felt such 
+investigations were necessary before any significant conclusions could 
+be reached with respect to inter-Bank comparisons of unit costs, but 
+notwithstanding this reservation, the Board shared President Hickman's 
+view that the functional expense reports provided a stimulus to improve 
+operations and lower costs. In conclusion the letter would indicate 
+that the Board noted the accomplishments achieved by the Cleveland Bank 
+in this direction. 
+During discussion, Governor Mitchell suggested certain changes 
+in the proposed letter to clarify that the Board, beginning with the 
+first quarterly report for 1967, was showing unit costs in the Consoli-
+dated Statement both with and without postage and expressage charges. 
+He observed that such a position should satisfy both the Reserve Bank 
+and the Board, and he made additional suggestions that would point up 
+the view that the procedure would provide a better basis for investiga-
+tions of reasons for differences in unit costs. 
+Unanimous approval was then given to a letter to President 
+Hickman in the form attached as Item No. 3. 
+
+7/12/67 
+-4-
+Report on automatic data processing activities (Item No. 4). 
+There had been distributed a draft of letter to the Bureau of the Budget 
+with respect to its circular No. A-83, effective April 20, 1967, under 
+which certain reports were requested relating to automatic data process-
+ing activities. The draft letter would indicate that the Board would 
+cooperate in furnishing certain of the data requested under this pro-
+gram but call attention to the fact that the Board did not operate under 
+appropriated funds, that its fiscal year was the calendar year, and that 
+the reports would cover automatic data processing equipment at the Board 
+but not at the Reserve Banks. With reference to the sharing of avail-
+able automatic data processing resources, the letter would further indi-
+cate that the Board would be glad to continue to consider requests for 
+use of its facilities by other Federal agencies on an individual basis. 
+In discussion, Mr. Byrne sketched the background against which 
+the draft letter had been prepared. The general purpose of the Brooks 
+Act (Public Law 89-306), which became effective October 20, 1965, was 
+to achieve coordinated management of automatic data processing on a 
+Government-wide basis, with extensive authority vested in the Adminis-
+trator of General Services. The law contained requirements, among others, 
+relating to annual reporting of equipment inventory, utilization, and 
+acquisition in conjunction with submission of budget estimates to the 
+Bureau of the Budget and to the Congress. Incident to the Act, the 
+Bureau of the Budget had instituted a management information system, 
+
+2 7 8 9 
+7/12/67 
+-5-
+some of the purposes of which would be to establish and maintain a per-
+petual inventory of electronic data processing equipment and facilitate 
+improved management of relevant activities. 
+Mr. Byrne noted that the question of Board posture with respect 
+to the activities contemplated by the Act was considered at the Board 
+meeting on January 23, 1967, at which time the Data Processing and Legal 
+Divisions recommended that the Board adopt a passive stand with respect 
+to current and future requirements under the Brooks Act. (Mr. O'Connell 
+was of the view that the Act was geared to the appropriations process 
+and technically the Board would appear to be excluded.) Question was 
+raised at that meeting as to the extent to which the Board might coop-
+erate with the Bureau of the Budget in matters of reporting and consult-
+ing without committing itself to adherence to the program, and it was 
+understood that the staff would pursue the matter further in the light 
+of the discussion. 
+Subsequently, a staff group consisting of Messrs. Sherman, 
+Cardon, O'Connell, and Byrne sought, without success, to arrange a 
+meeting with representatives of the Bureau of the Budget for the pur-
+pose of discussing the extent of the Board's participation in the 
+Bureau's program. In view of the fact that the first report under the 
+Budget Bureau's circular was due later this month, the staff felt that 
+a letter from Chairman Martin to the Director of the Budget Bureau, 
+assuring him of the Board's desire to cooperate as indicated but 
+
+2770 
+7/12/67 
+-6-
+pointing out certain limitations in the data that could be supplied, 
+would be helpful. 
+Discussion at today's meeting revealed support of the objective 
+pursued in the draft letter. Governor Daane suggested some editorial 
+changes in the tone of the letter, as did Governor Mitchell. 
+Unanimous approval was then given to a letter from Chairman 
+Mar tin to the Director of the Bureau of the Budget in the form attached 
+as Item No. 4. 
+Annex building (Items 5 and 6). Mr. Shepardson described cer-
+tain papers to be filed by the Board with the District of Columbia 
+Government in order to obtain permission to excavate and use underground 
+space that would extend beyond the Board's property line, as well as an 
+application relating to two tunnels under C Street to provide communica-
+tion between the Board's present building and the annex. 
+Upon request of Mr. Shepardson, the Secretary was authorized to 
+execute and send the necessary letters and agreement. Copies of the 
+letters subsequently transmitted are attached as Items 5 and 6. 
+Mr. Shepardson also referred to a meeting yesterday with the 
+Executive Director of the National Capital Planning Commission with 
+respect to the stand taken by the Fine Arts Commission on the general 
+design of the proposed annex building. From the discussion it appeared 
+that although the role of the Fine Arts Commission was principally 
+advisory, only rarely did the Planning Commission, from whom the Board 
+
+7/12/67 
+-7-
+would be required to obtain a building permit, go contrary to the rec-
+ommendation of the Fine Arts Commission. The Executive Director of the 
+Planning Commission indicated some sympathy with the position in which 
+the Board found itself and suggested a possible approach that would be 
+pursued as soon as cost estimates and plans were available from the 
+architects. 
+The meeting then adjourned. 
+Secretary's Notes: Pursuant to the under-
+standing at the meeting on June 23, 1967, 
+letters were sent today to all Federal 
+Reserve Banks except New York advising 
+that the Board was prepared to approve, 
+upon request, a special maximum of $22,000 
+for Grade 16 of the employee salary struc-
+tures. A copy of the letter sent to the 
+Federal Reserve Bank of Boston is attached 
+as Item No. 7; the letters to the other 
+Reserve Banks were in similar form. 
+A letter was sent today to Bank of America 
+National Trust and Savings Association, San 
+Francisco, California, acknowledging receipt 
+of notice of its intent to establish an addi-
+tional branch in Germany, to be located in 
+Frankfurt am Main. 
+Acting in the absence of Governor Robertson, 
+Governor Sherrill today approved on behalf 
+of the Board the following items: 
+Memorandum from the Division of Research and Statistics dated 
+July 6, 1967, recommending that Ann P. Ulrey be appointed as a con-
+sultant effective until December 31, 1967, with compensation at the 
+rate of $65 per day, so that she might, among other things, continue 
+her work on a monograph on the U.S. capital markets, with the under-
+standing that transportation expenses and per diem would be paid in 
+accordance with the Board's travel regulations. 
+(In this connection, 
+Governor Sherrill also authorized any resulting overexpenditure in the 
+Pertinent account of the 1967 budget of the Division.) 
+
+0>-V-7Q 
+7/12/67 
+-8-
+Memoranda recommending the following actions relating to the 
+Board's staff: 
+Salary increases, effective July 16, 1967 
+Susan W. Burch, Economist, Division of Research and Statistics, 
+from $12,873 to $13,769 per annum. 
+Gary P. Cochran, Personnel Assistant, Division of Personnel 
+Administration, from $6,664 to $7,696 per annum, with a change in 
+title to Personnel Technician. 
+Joseph H. Hoyle, Personnel Assistant, Division of Personnel 
+Administration, from $8,948 to $9,523 per annum, with a change in 
+title to Personnel Technician. 
+Robert I. Stewart, Assistant Head Messenger, Division of Admin-
+istrative Services, from $5,122 to $5,421 per annum, incident to his 
+transfer from the position of Messenger in the Board Members' Offices. 
+On July 12, 1967, actions were taken 
+on behalf of the Board under delegated 
+authority as indicated by the following 
+letters, copies of which are attached 
+under the respective item numbers indi-
+cated: 
+By the Director of the Division of Examinations 
+Item No. 
+Letter to the Federal Reserve Bank of Boston 
+8 
+approving the appointment of Norman Morris as 
+examiner. 
+Letter to the Federal Reserve Bank of Boston 
+9 
+approving the appointment of Peter D. Coyne 
+as assistant examiner. 
+Letter to the Federal Reserve Bank of Richmond 
+10 
+approving the designation of Margaret A. Douglas 
+as special assistant examiner. 
+By the Director of the Division of Personnel 
+Administration 
+Letter to the Federal Reserve Bank of New York 
+11 
+approving the appointment of Peter D. Luce as 
+Federal Reserve Agent's Representative at the 
+Buffalo Branch. 
+
+T E L E G R A M 
+Item No 1 
+L E A S E D W I R E S E R V I C E 
+X U C U 1 
+i \ | U . 
+J. 
+BOARD OF GOVERNORS OF T H E F E D E R A L RESERVE SYSTEM 
+WASHINGTON 
+2778 
+) 
+7/12/67 
+July 12, 1967 
+PRESIDENTS OF ALL FEDERAL RESERVE BANKS 
+AND VICE PRESIDENTS IN CHARGE OF BRANCHES: 
+Referring Board's August 13, 1964, letter 
+(F. R.L.S. #3049) concerning procedures to alleviate coin 
+shortage, Board has concluded, with concurrence of Director 
+of the Mint, that rebagging of halves no longer serves any 
+useful purpose under existing conditions and may be 
+discontinued. Authority to discontinue rebagging other 
+denominations of coin was previously given in Board's letters 
+of March 15, 1965, and August 16, 1965, and telegrams of 
+January 5, 1966, and March 10, 1966. 
+(Signed) Merritt Sherman 
+SHERMAN 
+
+o f c o & 
+m l r e ^ - . 
+B O A R D D F 
+G D V E R N D R S 
+• 
+F 
+T H E 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , 
+D . 
+C . 
+2 0 5 5 1 
+Item No. 11 
+7/12/67 
+A D D R E S S O F F I C I A L 
+C O R R E S 
+TO T H E 
+B O A R D 
+July 12, 1967 
+CONFIDENTIAL (FR) 
+Mr. Dolph Simons, 
+Chairman of the Board, 
+Federal Reserve Bank of Kansas City, 
+Kansas City, Missouri. 64106 
+Dear Mr. Simons: 
+This refers to your letter of June 8, 1967, enclosing 
+executed copies of a contract entered into between the Federal 
+Reserve Bank of Kansas City and President George H. Clay provid-
+ing for a minimum retirement allowance for Mr. Clay after his 
+retirement under certain conditions. 
+The Board of Governors approves the contract as entered 
+into between the Bank and President Clay on June 8, 1967, and the 
+Secretary of the Board of Governors has affixed his signature in 
+the place indicated in the agreement. 
+One executed copy has been retained for the Board's 
+files; the original and other copy are enclosed with this letter. 
+Very truly yours, 
+(Signed) Merritt Sherman 
+Merritt Sherman, 
+Secretary. 
+Enclosures. 
+
+2775 
+For and in consideration of the mutual promises of each party-
+he reto, this Agreement is entered into between G E O R G E H. C L A Y and the 
+F E D E R A L R E S E R V E B A N K O F K A N S A S CITY, K A N S A S CITY, MISSOURI. 
+Subject to all of the applicable provisions of law, G E O R G E H. 
+C l a y agrees to serve as an officer of the said F E D E R A L R E S E R V E B A N K 
+as long as such service shall be mutually agreeable to the parties hereto. 
+For and on account of such service, said F E D E R A L 
+R E S E R V E 
+B A N K shall pay said G E O R G E 
+H . C L A Y as follows: 
+(1) Said F E D E R A L R E S E R V E B A N K shall pay to said G E O R G E 
+H. C L A Y a salary at the rate of $42, 500 per annum during 
+the period ending December 31, 1967, and thereafter during 
+his service as an officer of said F E D E R A L R E S E R V E B A N K 
+and prior to his retirement his salary shall be as determined 
+from time to time in accordance with applicable provisions 
+of law; 
+(2) If, having attained the age of 65, said G E O R G E H. C L A Y shall 
+retire with not less than 10 years of service creditable under 
+the Retirement System of the Federal Reserve Banks, and if 
+
+2776 
+he is President of said F E D E R A L R E S E R V E B A N K at 
+the time of his retirement, said F E D E R A L R E S E R V E B A N K 
+shall pay to said G E O R G E H. C L A Y after such retirement 
+and during the remainder of his lifetime an amount per annum 
+which, together with his regular retirement allowance under 
+the Retirement System of the Federal Reserve Banks (without 
+regard to optional benefits or conversion, or additional 
+voluntary contributions), will aggregate a sum equal to 40 
+per cent of the annual salary being paid to him at the time 
+of his retirement; and 
+(3) If, without having attained the age of 65, said G E O R G E H. 
+C L A Y shall retire with not less than 10 years of service 
+creditable under the Retirement System of the Federal 
+Reserve Banks, and if he is President of said F E D E R A L 
+R E S E R V E B A N K at the time of his retirement, the aggregate 
+sum equal to 40 per cent of salary referred to in the preceding 
+paragraph (2) shall be reduced by the application of the then 
+current table of pension reduction factors of the Bank Plan 
+of the Retirement System of the Federal Reserve Banks, and 
+the portion of the aggregate that is payable by said F E D E R A L 
+- 2 -
+
+2777 
+R E S E R V E B A N K shall be the difference between the dollar 
+amount represented by such lesser percentage of salary and 
+the regular retirement allowance payable at the attained age 
+by said Retirement System. 
+This Agreement does not obligate the said G E O R G E H. C L A Y to 
+^ain as an officer of the said F E D E R A L R E S E R V E BANK, and does not con-
+8titut 
+te an Agreement by the said F E D E R A L R E S E R V E B A N K or the Board of 
+erftors of the Federal Reserve System that he will continue in such capacity; 
+es not obligate the said F E D E R A L R E S E R V E B A N K to appoint, re-appoint, 
+c°ntinue him as an officer, nor does it obligate the Board of Governors of 
+e F 
+ederal Reserve System to approve his appointment or re-appointment or 
+Com pensation. 
+Witness our hands and seals this 
+day of 
+1967. 
+" 1 
+i 
+rEXJI 
+R G E H. C L A Y 
+F E D E R A L R E S E R V E B A N K O F KANSAS CITY 
+Chairman/of the Board of Di rectors 
+The above Agreement has been approved by the Board of Governors 
+^ e d e r a l Reserve System and in witness thereof, the seal of the said Board 
+ached and its Secretary has affixed his signature. 
+'ate) 
+(SEAL) 
+(Signed) Merritt Sherman 
+Sec retary 
+
+2778 
+B D A R D D F G O V E R N • R S 
+I t em No. 3 
+D F T H E 
+7/12/67 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , 
+D . 
+C . 
+2 0 5 5 1 
+A D D R E S S O F F I C I A L 
+C O R R E S P O N D E N C E 
+TO T H E 
+B O A R D 
+July 12, 1967. 
+AIR MAIL 
+Mr. W. Braddock Hickman, President, 
+Federal Reserve Bank of Cleveland, 
+Cleveland, Ohio 44101. 
+Dear Mr. Hickman: 
+This is in response to your letter of June 22, 1967, 
+referring to the Board's Consolidated Statement of Expenses 
+and Functional Data, and requesting a review by the Board of 
+the desirability of the existing practice of including postage 
+and expressage in the total cost per thousand items shown for 
+country checks. 
+In considering your request, the Board noted that 
+this matter was discussed in an earlier exchange of corres-
+pondence between you and Governor Mitchell. Beginning with 
+the first quarterly report for 1967, these data are shown 
+with postage included and excluded in order to accommodate 
+an analysis on either basis. Accordingly, the Board sees no 
+need to change the existing reporting procedure. 
+The Board feels that information presented in this 
+manner will provide a better basis for investigations of the 
+reasons for differences in unit costs, and it believes that 
+such investigations are necessary before any significant con-
+clusions can be reached with respect to inter-Bank comparisons 
+of those costs. In other words, the fact that a Bank has the 
+lowest unit cost for an operation does not necessarily mean 
+that it has the most efficient procedures. Before such a 
+conclusion could be reached, the scope of the work that has 
+to be done and other relevant factors at the different Banks 
+must be taken into account. In the Check Collection function, 
+for instance, Chicago with a requirement of about 2,900 sorts--
+at least four or five times the number required at most other 
+banks--could never hope to achieve the Number 1 ranking., 
+
+Mr. W. Braddock Hickman 
+- 2 -
+Notwithstanding this reservation about the significance 
+of the ranking in unit costs, the Board shares your view that the 
+functional expense reports provide a stimulus to improve operations 
+and lower costs, and it has noted the accomplishments your Bank has 
+achieved in this direction. 
+Very truly yours, 
+U: . 
+(Signed) Merritt Sherman 
+Merritt Sherman, 
+Secretary. 
+
+2 7 8 0 
+BOARD OF GOVERNORS 
+O F T H E 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , D. C . 
+3 0 5 5 1 
+Item No. 4 
+7/12/67 
+O F F I C E O F T H E 
+C H A I R M A N 
+July 13, 1967 
+Mr. Charles L. Schultze, 
+Director, 
+Bureau of the Budget, 
+Washington, D. C. 20503 
+Dear Charlie: 
+This letter refers to Bureau of the Budget Circular No. A-83 
+which became effective April 20, 1967, and under which certain reports 
+are requested relating to automatic data processing activities. The 
+Board will be glad to cooperate in furnishing data under this program, 
+and it has instructed its staff to transmit at the times specified in 
+Circular A-83 the following requested reports and schedules: 
+Report 
+ADPE Inventory 
+Projected EDPE Gains/Losses 
+Frequency 
+Each June 30 
+Due Date at 
+MIS Processing Point 
+30 days after end of 
+applicable period 
+Each June 30 and 
+30 days after end of 
+December 31 
+applicable period 
+Actual EDPE Gains/Losses 
+Upon installation 10 days after instal-
+(Perpetual Inventory Inputs) 
+or release 
+lation or release 
+As you know, the Board does not operate under appropriated 
+funds, and our fiscal year is the calendar year. We hope that the 
+information we will be able to supply will, nevertheless, assist the. 
+Bureau of the Budget in meeting the requirements of Public Law 89-306. 
+°ur reports will cover the installations of ADP equipment here at the 
+Board; they will not include any of the installations at the Federal 
+Reserve Banks. 
+
+'// Mr.' Charles L. Schultze 
+-2-
+in . 7 
+With reference to sharing of oar available ADP resources 
+on either a reimbursable or nonreimbursable basis, the Board will 
+continue as in the past to cooperate with other Government agencies. 
+You may be sure that we will welcome and carefully consider each 
+request by another agency for use of our facilities. 
+Sincerely yours, 
+(Signed) Bill M. 
+Wm. McC. Martin, Jr. 
+
+2 7 8 2 
+B O A R D 
+O F 
+G O V E R N O R S 
+• 
+F 
+T H E 
+F E D E R A L 
+R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N 
+2 5 . 
+D . 
+C . 
+Item No. 11 
+7/12/67 
+A D D R E S S O F F I C I A L 
+C O R R E S P O N D E N C E 
+TO T H E 
+B O A R D 
+July 12, 1967 
+Board of Commissioners, 
+District of Columbia, 
+Washington, D. C. 
+Gentlemen: 
+The Board of Governors of the Federal Reserve 
+System is planning the construction of an annex to its 
+present building on Lot 805, Square E-87, property which 
+it now owns. 
+In this connection, the Board is herewith filing 
+application for vault space projecting beyond our property 
+line. 
+It is noted in the attached Vault Agreement that 
+the owners agree to pay such rental as may be prescribed by 
+the District of Columbia. However, it is the Board's under-
+standing that no rental is required for such vault space 
+from Departments or Agencies of the Federal Government. 
+Since the Board of Governors of the Federal Reserve 
+System is a Federal Agency created by the Federal Reserve 
+Act, it is respectfully requested that this request for 
+vault space be approved, free of any rental charge for such 
+space. 
+Very truly yours, 
+(Signed) Merritt Sherman 
+Merritt Sherman, 
+Secretary. 
+Enclosure 
+
+^ ?S8i 
+B O A R D O F 
+G D V E R N D R S 
+• F 
+T H E 
+Item No. 11 
+7/12/67 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , 
+D. 
+C. 
+20551 
+A D D R E S S 
+O F F I C I A L 
+C D R R E S P D N D E N C E 
+T O 
+T H E 
+B O A R D 
+July 12, 1967 
+Brigadier General Robert E. Mathe, 
+Engineer Commissioner of the 
+District of Columbia, 
+Washington, D. C. 
+Dear Sir: 
+The Board of Governors of the Federal Reserve 
+System is planning the construction of an annex to its 
+present building on Lot 805, Square E-87, property which 
+it now owns. 
+The plans call for two tunnels under "C" Street 
+connecting the two buildings, one a personnel tunnel and 
+the other a service tunnel. The personnel tunnel from the 
+present building to the curb line on the north side of "C" 
+Street was constructed at the time the present building was 
+erected. 
+This letter is to request authorization for the 
+completion of this tunnel and an additional parallel service 
+tunnel as shown on the attached plans. 
+Very truly yours 
+(Signed) Merritt Sherman 
+Enclosure 
+Merritt Sherman, 
+Secretary. 
+
+2784 
+. • V, ov cow • 
+'•f^LRES^ 
+B O A R D O F 
+G O V E R N O R S 
+• F 
+T H E 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , 
+D. 
+C, 
+20551 
+Item No. 11 
+7/12/67 
+A D D R E S S 
+n r F I C I A L 
+C a H B E S P H N D E N C f 
+T O 
+T H E 
+B O A R D 
+July 12, 1967, 
+CONFIDENTIAL (FR) 
+Mr. George H. Ellis, President, 
+Federal Reserve Bank of Boston, 
+Boston, Massachusetts. 02106 
+Dear Mr. Ellis: 
+In order to assist the Reserve Banks in recruiting and 
+retaining employees of the desired quality in professional level 
+positions, the Board is prepared to approve a special maximum of 
+$22,000 for graae 16 of the employees salary structure. Should 
+your Board of Directors wish to use this special maximum, the 
+Board of Governors will give prompt consideration to a request 
+for its approval. 
+Very truly vours. 
+(Signed) Merritt Sherman 
+Merritt Sherman, 
+Secretary. 
+
+2785 
+B O A R D D F 
+G O V E R N O R S 
+O F 
+T H E 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , 
+D . 
+C. 
+20551 
+Item No. 11 
+7/12/67 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O 
+T H E 
+B O A R D 
+July 13, 1967 
+Mr. Luther M. Hoyle, Jr., Vice President, 
+Federal Reserve Bank of Boston, 
+Boston, Massachusetts 02106. 
+Dear Mr. Hoyle: 
+The Director of the Division of Examinations, on 
+behalf of the Board of Governors under delegated authority, 
+has approved the appointment of Norman Morris as an Examiner 
+for the Federal Reserve Bank of Boston. 
+Please advise us of the salary and of the effective 
+date of this appointment. 
+Very truly yours, 
+(Signed) Elizabeth L. Carmichael 
+Elizabeth L. Carmichael, 
+Assistant Secretary. 
+
+Of--
+B O A R D D F 
+G D V E R N D R S 
+• F 
+T H E 
+Item No. 10 
+7/12/67 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , 
+D . 
+C. 
+20551 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O 
+T H E 
+B O A R D 
+July 13, 1967 
+Mr. Luther M. Hoyle, Jr., Vice President, 
+Federal Reserve Bank of Boston, 
+Boston, Massachusetts. 
+02106 
+Dear Mr. Hoyle: 
+The Director of the Division of Examinations, 
+on behalf of the Board of Governors under delegated 
+authority, has approved the appointment of Peter D. 
+Coyne as an Assistant Examiner for the Federal Reserve 
+Bank of Boston. Please advise the effective date of 
+the appointment. 
+Very truly yours, 
+(Signed) Elizabeth L. Carmichael 
+Elizabeth L. Carmichael, 
+Assistant Secretary. 
+
+2787 
+vfeSSSfe:.. 
+B O A R D O F 
+G O V E R N O R S 
+• F 
+T H E 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , 
+D . 
+C. 
+20551 
+Item No. 10 
+7/12/67 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O 
+T H E 
+B O A R D 
+July 13, 1967 
+Mr. John L. Nosker, Vice President, 
+Federal Reserve Bank of Richmond, 
+Richmond, Virginia 23213. 
+Dear Mr. Nosker: 
+The Director of the Division of Examinations, on 
+behalf of the Board of Governors under delegated authority, 
+has approved the appointment of Miss Margaret A. Douglas as 
+a Special Assistant Examiner for the Federal Reserve Bank of 
+Richmond. 
+Very truly yours, 
+(Signed) Elizabeth L. Carmichael 
+Elizabeth L. Carmichael, 
+Assistant Secretary. 
+
+..'J. of C.Ov^ • • 
+s °> 
+2788 
+B D A R D D F 
+G O V E R N O R S 
+O F 
+T H E 
+F E D E R A L R E S E R V E 
+S Y S T E M 
+W A S H I N G T O N , 
+D. 
+C. 
+20551 
+Item No. 11 
+7/12/67 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O 
+T H E 
+B O A R D 
+July 12, 1967 
+Mr. Everett N. Case, 
+Federal Reserve Agent, 
+Federal Reserve Bank of New York, 
+New York, New York. 10045 
+Dear Mr. Caser 
+Acting under delegated authority, the Director of the 
+Division of Personnel Administration has approved the appointment of 
+Mr. Peter D. Luce as Federal Reserve Agent's Representative at the 
+Buffalo Branch to succeed Mr. Donald J. Weber. 
+This approval is given with the understanding that Mr. Luce 
+will be solely responsible to the Federal Reserve Agent and the Board 
+of Governors for the proper performance of his duties, except that, 
+during the absence or disability of the Federal Reserve Agent or a 
+vacancy in that office, his responsibility will be to the Assistant 
+Federal Reserve Agent and the Board of Governors. 
+When not engaged in the performance of his duties as Federal 
+Reserve Agent's Representative, Mr. Luce may, with the approval of the 
+Federal Reserve Agent and the Vice President in charge of the Buffalo 
+Branch, perform such work for the Branch as will not be inconsistent 
+with the duties as Federal Reserve Agent's Representative. 
+It will be appreciated if Mr. Luce is fully informed of the 
+importance of his responsibilities as a member of the staff of the 
+Federal Reserve Agent and the need for maintenance of independence from 
+the operations of the Bank in the discharge of these responsibilities. 
+Please have Mr. Luce execute the usual Oath of Office which 
+should then be forwarded to the Board of Governors along with notifica-
+tion of the effective date of his appointment. 
+Very truly yours, 
+(Signed) Merritt Sherman 
+Merritt Sherman, 
+Secretary. 

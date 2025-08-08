@@ -1,0 +1,13 @@
+# Core dependencies for Fed Minutes Parser
+PyMuPDF>=1.23.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyyaml>=6.0
+
+# For testing
+pytest>=7.0.0
+
+# For notebooks (optional)
+jupyter>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.12.0

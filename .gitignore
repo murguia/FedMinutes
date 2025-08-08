@@ -1,0 +1,14 @@
+.vscode/
+.venv/
+.pytest_cache/
+.ipydb_checkpoints/
+__pycache__/
+.DS_Store
+.python-version
+
+# Large PDF files (too big for git)
+data/raw/PDFs/
+*.pdf
+
+validation_report.json
+pdf_names.txt
