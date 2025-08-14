@@ -1,0 +1,41 @@
+# Development environment
+.vscode/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.python-version
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+api_keys.txt
+
+# Large PDF files (too big for git)
+data/raw/PDFs/
+*.pdf
+
+# Large processed data files (generated, can be rebuilt)
+data/processed/meetings_full.json      # 77MB
+data/processed/meetings_summary.csv    # 75MB
+data/processed/all_*.csv               # Large aggregated files
+data/processed/embeddings/            # 877MB total
+data/vector_db                        # 1.7GB ChromaDB (directory and all contents)
+
+# Temporary and generated files
+validation_report.json
+pdf_names.txt
+data/validation/test_results.csv
+parsing_errors.csv
+
+# Generated reports
+reports/
+
+# Backup files
+*_old.ipynb
+*_backup.*
+data/vector_db/
+data/processed/

@@ -1,0 +1,768 @@
+'R 609 
+R e
+v. 5-67) 
+Minutes for
+ 
+J u n e 
+5
+>
+ 
+1 9 6 7 
+To: 
+Members of the Board 
+From: 
+Office of the Secretary 
+Attached is a copy of the minutes of the 
+Board of Governors of the Federal Reserve System on 
+the above date. 
+It is not proposed to include a statement 
+with respect to any of the entries in this set of 
+minutes in the record of policy actions required to 
+be maintained pursuant to section 10 of the Federal 
+Reserve Act. 
+Should you have any question with regard 
+to the minutes, it will be appreciated if you will 
+advise the Secretary's Office. Otherwise, please 
+initial below. If you were present at the meeting, 
+your initials will indicate approval of the minutes. 
+If you were not present, your initials will indicate 
+only that you have seen the minutes. 
+Chairman Martin 
+Governor Robertson 
+Governor Mitchell 
+Governor Daane 
+Governor Maisel 
+Governor Brimmer 
+Governor Sherrill 
+M
+. 
+X 
+oi 
+U Oi 
+
+a ' . 
+' 
+Minutes of the Board of Governors of the Federal Reserve 
+System on Monday, June 5, 1967. The Board met in the Board Room 
+at 10:00 a.m. 
+PRESENT: Mr. Martin, Chairman 1/ 
+Mr. Robertson, Vice Chairman 
+Mr. Mitchell 
+Mr. Daane 1/ 
+Mr. Maisel 
+Mr. Brimmer 
+Mr. Sherrill 
+Mr. Sherman, Secretary 
+Mr. Kenyon, Assistant Secretary 
+Mr. Bakke, Assistant Secretary 
+Mr. Solomon, Adviser to the Board and Director, 
+Division of International Finance 
+Mr. Molony, Assistant to the Board 
+Mr. Cardon, Legislative Counsel 
+Mr. Fauver, Assistant to the Board 
+Mr. Hackley, General Counsel 
+Mr. Farrell, Director, Division of Bank 
+Operations 
+Mr. Solomon, Director, Division of Examinations 
+Mr. Johnson, Director, Division of Personnel 
+Administration 
+Mr. Kelleher, Director, Division of Administra-
+tive Services 
+Mr. Kakalec, Controller 
+Mr. Harris, Coordinator of Defense Planning 
+Mr. Byrne, Director, Division of Data Processing 
+Mr. Hexter, Associate General Counsel 
+Mr. O'Connell, Assistant General Counsel 
+Mr. Shay, Assistant General Counsel 
+Mr. Partee, Associate Director, Division of 
+Research and Statistics 
+Mr. Kiley, Assistant Director, Division of Bank 
+Operations 
+Mr. Leavitt, Assistant Director, Division of 
+Examinations 
+Mr. Dahl, Assistant Director, Division of 
+Examinations 
+Mr. Egertson, Assistant Director, Division of 
+Examinations 
+1/ Withdrew from meeting at point indicated in minutes. 
+
+6/5/67 
+-2-
+Mr. Langham, Assistant Director, Division of 
+Data Processing 
+Mr. Staiger, Assistant Director, Division of 
+Data Processing 
+Mr. Rhinehart, Assistant Director, Division of 
+Data Processing 
+Miss Wolcott, Technical Assistant, Office of 
+the Secretary 
+Messrs. Sanders and Via, Senior Attorneys, 
+Legal Division 
+Messrs. Lougee and Wiles, Economists, Division 
+of Research and Statistics 
+Mr. Achor, Review Examiner, Division of 
+Examinations 
+Mr. Smith, Assistant to the Director, Division 
+of Administrative Services 
+Messrs. Garges, Computer System Specialist, and 
+Rand, Systems Engineer, Division of Data 
+Processing 
+Investment in bank premises (Item No. 1). Unanimous approval 
+was given to a letter to Georgia Railroad Bank & Trust Company, 
+Augusta, Georgia, approving an investment in bank premises. A copy 
+of the letter is attached as Item No. 1. 
+Reports on competitive factors. A report to the Comptroller 
+of the Currency on the competitive factors involved in the proposed 
+merger of Citizens Bank of Monroe, Monroe, New York, into County 
+National Bank, Middletown, New York, was approved unanimously for 
+transmittal to the Comptroller, the conclusion being stated as follows 
+Consummation of the proposed merger would eliminate 
+existing and potential competition between County National 
+Bank, Middletown, and Citizens Bank of Monroe. While 
+County Bank is not the largest bank operating offices in 
+Orange County, it is the largest commercial bank head-
+quartered in the county and holds the largest share of 
+county deposits. This position would be enhanced by the 
+proposal. The overall effect of the proposed merger on 
+competition would be adverse. 
+
+6/5/67 
+-14-
+the two functions would invite maintenance as well as operating prob-
+lems . 
+After further discussion there was agreement with Governor 
+Robertson's summation of the consensus as looking toward the instal-
+lation of an IBM system 360, model 65, in Culpeper with an overlap 
+period during which the system 360, model 50, also would be operated 
+at the Board's offices. A decision on eventual disposition of the 
+latter would be reserved for the future. As to the proposed communi-
+cations system, all possible alternatives should be explored further. 
+Messrs. Solomon (Adviser), Molony, Kelleher, Kakalec, Harris, 
+Byrne, Langham, Staiger, Rhinehart, Garges, Rand, and Smith then with-
+drew from the meeting. 
+Delegation of Board functions (Items 2-3). Pursuant to the 
+understanding at the meeting on April 25, 1967, there were transmitted 
+to the Federal Reserve Banks drafts of (1) Rules Regarding Delegation 
+of Authority, to be published in the Federal Register, that would pro-
+vide for the delegation of certain statutory or regulatory functions 
+of the Board, and (2) a list of certain nonstatutory and nonregulation 
+functions of the Board that might be delegated without publication in 
+the Federal Register. 
+There had now been distributed a memorandum from the Legal 
+Division dated June 1, 1967, summarizing suggestions received from the 
+Reserve Banks. Attached to the memorandum were revised drafts of the 
+
+2
+2
+m 
+6/5/67 
+-15-
+Rules and the secondary list that reflected the Division's recommenda-
+tions. Also attached was a draft of letter to the Reserve Bank Presi-
+dents that would transmit copies of the Rules and the secondary list 
+and offer explanatory comments. 
+During discussion Governor Robertson expressed doubt about the 
+wisdom of delegating certain functions under Regulation K, Corporations 
+Engaged in Foreign Banking and Financing under the Federal Reserve Act. 
+He also noted that, as presently worded, the suggested procedure for 
+review of delegated actions might lead to a situation where a bank 
+would proceed under authorization from the delegated level only to be 
+faced with reversal of that authority upon subsequent review by the 
+Board. Mr. Hackley suggested alternative language to cover that point. 
+Other members of the Board made additional suggestions, mostly 
+editorial in nature, following which Mr. Hackley observed that as the 
+Board gained experience, any difficulties that might develop could be 
+corrected by amendment. 
+Unanimous approval was then given, effective July 1, 1967, to 
+the Rules Regarding Delegation of Authority, as amended in the light 
+of comments at this meeting, with the understanding that they would 
+be published in the Federal Register, and to the delegation of certain 
+other functions of a nonstatutory and nonregulation nature as set forth 
+in the list of such functions, which would not be published. A copy 
+
+6/5/67 
+-16-
+of the letter transmitting these materials to the Presidents of the 
+Federal Reserve Banks is attached as Item No. 2. 
+Mr. Fauver suggested that it would facilitate public under-
+standing if a press release also were issued. There was general agree-
+ment with this suggestion, and a copy of the press release subsequently 
+issued is attached as Item No. 3. 
+Governor Brimmer said that he had on occasion been asked why 
+the Board did not delegate authority with respect to bank merger and 
+bank holding company applications. He commented that it would be 
+helpful if a statement could be prepared in this regard for use by 
+members of the Board should they be called upon to comment on this 
+point. In addition, the time lag between receipt of such applications 
+and final Board action appeared to be longer than he had realized, and 
+he inquired whether information could be prepared that would identify 
+where the lags had occurred in the past. It was understood that the 
+requested information would be furnished. 
+At this point Governor Daane withdrew from the meeting, indi-
+cating that he wished to abstain from participating in the considera-
+tion of the next item on the agenda. 
+Amendments to Rules and Regulations of Retirement System (Item 
+No. 4). There had been distributed a memorandum from Mr. Johnson dated 
+May 26, 1967, relating to proposed amendments to the Rules and Regula-
+tions of the Retirement System of the Federal Reserve Banks, the 
+
+f 
+Item No. 2 
+B D A R D D F G D V E R N D R S 
+6/5/67 
+• F T H E 
+FEDERAL RESERVE SYSTEM 
+S"2020 
+WASHINGTON, 
+D. C. 20551 
+A D D R E S S 
+O F F I C I A L 
+C O R R E S P O N D E N C E 
+T O T H E 
+B O A R D 
+June 8, 1967. 
+«AL RfcSf 
+Dear Sir: 
+Effective July 1, 1967, the Board has delegated its authority 
+with respect to certain supervisory functions that, by statute 
+or by regulation, must otherwise be performed by the Board, A copy 
+of the Board's new regulation, "Rules Regarding Delegation of Authority", 
+in the form that it is being submitted for publication in the Federal 
+Register, is enclosed. The regulation will be printed at the Board; 
+Please advise by wire the number of copies that your Bank will need 
+for making distribution to member banks, holding companies, and other 
+interested persons within your District and for reserve. 
+In addition, and effective at the same time, the Board has 
+delegated certain of its nonstatutory and nonregulation functions. 
+A copy of the document reflecting this action is also enclosed. 
+A few explanatory comments seem to be appropriate in order 
+that 
+delegees may fully understand the Board's intention with respect 
+to these actions. Although in some areas a delegee's authority is 
+wore extensively limited than in others, the Board intends that, 
+within the scope of a delegee's authority, the delegee may either 
+a
+Pprove or deny an application. An application must be submitted to 
+the Board for its consideration only if it may not be approved by a 
+delegee because of restrictions on his authority. The delegee should, 
+however, submit to the Board any matter of unusual importance or 
+complexity even though action on the application would be within the 
+scope of the delegee's authority. 
+Except to the extent that the new rules are inconsistent 
+with previous instructions of the Board, they are not intended to 
+supersede such instructions or to require modifications of practices 
+developed on the basis thereof. Thus, S-1872 and S-1879 (F.R.L.S. 
+#3720) relating to applications by State member banks for permission 
+to exercise statutory fiduciary powers continue in effect, subject to 
+the new reporting requirements. Similarly, the authority of the 
+General Counsel with respect to agreements under which Reserve Banks 
+
+2244 
+S-2020 
+-2-
+perform fiscal agency functions does not change the current procedure 
+under which fiscal agency agreements are developed. Also, because 
+it appears that practices developed pursuant to the Board's outstanding 
+instructions on examination of affiliates of State member banks 
+(F.R.L.S. #3710) are such that the question of waiver of examination 
+seldom, if ever, arises, delegation of authority as to that matter 
+has been omitted as unnecessary and perhaps confusing or misleading 
+as to the Board's intentions. 
+In taking its actions, the Board considered the suggestions 
+of the Reserve Banks for minor changes in the review procedures. 
+Perhaps experience in operating under delegation of the Board's 
+authority will suggest the need for modification, but for the present 
+the Board believes that the procedures originally proposed and finally 
+adopted are consistent with the law and purposes of delegation, while 
+at the same time furnishing the Board both with readily accessible 
+information on all matters under consideration and with an appropriate 
+means of evaluating actions taken on its behalf at the delegated level. 
+Accordingly, each Reserve Bank should at the end of each 
+business day, as to all subjects with respect to which it is authorized 
+to act on behalf of the Board, briefly identify in a telegram to the 
+Board's Secretary the nature of (a) any applications or requests re-
+ceived during that day and (b) all actions taken by the Reserve Bank 
+pursuant to delegated authority on that day. (If no applications or 
+requests are received and no actions are taken on any given day, it 
+would be appreciated if, for the time being, a telegram to that effect 
+would be dispatched.) One exception to these reporting requirements 
+seems appropriate. In connection with waivers of penalties for 
+deficient reserves, it will be sufficient if all actions granting such 
+waivers during a calendar quarter are reported within a few days 
+after the close of such period. 
+Actions taken by the Reserve Banks as delegees should be 
+embodied in letters addressed by them to the applicant. Such letters 
+should be signed by the appropriate officer of the Reserve Bank,and 
+a
+ copy of each should be forwarded to the Board's Secretary. All 
+actions taken by delegees will be noted in the minutes of the Board 
+for the day on which the actions are taken. In the rare instance 
+in which Board review is requested and the Board decides to consider 
+the matter, wire advice to that effect will promptly be sent by the 
+Board's Secretary directly to the applicant or other person concerned, 
+with an information copy to the Reserve Bank involved. 
+
+S-2020 
+-3-
+In this endeavor to modernize and expedite its procedures, 
+the Board expects that questions and problems will arise from time 
+to time. It is hoped that the Reserve Banks will keep the Board 
+Informed on such matters and of their views on the general subject. 
+Very truly yours, 
+Secretary. 
+Enclosures 
+TO THE PRESIDENTS OF ALL FEDERAL RESERVE BANKS. 
+
+TITLE 12 - BANKS AND BANKING 
+CHAPTER II - FEDERAL RESERVE SYSTEM 
+SUBCHAPTER A - BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM 
+PART 265 - RULES REGARDING DELEGATION OF AUTHORITY 
+I. 
+Effective July 1, :1967, Part 265 is added. 
+2a, This part is promulgated pursuant to and in accord-
+ance with the provisions of section 11(k) of the Federal Reserve Act 
+(12 U.S.C. 248(k)) which became effective November 5, 1966, The new 
+rules are designed to provide a more expeditious means for the per-
+formance of certain of the Beard's bank supervisory functions and 
+to improve its overall efficiency in fulfilling its statutory 
+responsibilities. 
+b, The provisions of section 553 of Title 5, United 
+States Code, relating to notice and public participation and to 
+deferred effective dates, were not followed in connection with the 
+adoption of this part, because the rules contained therein are 
+Procedural in nature and accordingly do not constitute substantive 
+r u
+les subject to the requirements of such section. 
+3. The new part is set forth below. 
+Dated at Washington, D . C., this 5th day of June, 1967, 
+By order of the Board of Governors, 
+/s/ Merritt Sherman 
+Merritt Sherman, 
+Secretary. 
+
+RULES REGARDING DELEGATION OF AUTHORITY 
+Sec. 
+265.1 Delegation of functions generally. 
+265.2 Specific functions delegated. 
+265.3 Review of action at delegated level. 
+Authority: 
+The provisions offtfcis Part 265 issued under sec. 11(k) 
+of the Federal Reserve Act (12 U.S.C. 248(k)). 
+§ 265.1 Delegation of functions generally. 
+Pursuant to the provisions of section 11(k) of the Federal 
+Reserve Act (12 U.S.C. 248(k)), the Board of Governors of the Federal 
+Reserve System delegates authority to exercise those of its functions 
+described in this part, subject to the limitations and guidelines herein 
+Prescribed. The Chairman of the Board of Governors assigns the respon-
+sibility for the performance of such delegated functions to the persons 
+herein specified. A delegee may submit any matter to the Board for 
+determination if he considers such submission appropriate because of 
+the importance or complexity of the matter. 
+§ 265.2 
+Specific functions delegated. 
+(a) The Secretary of the Board (or, in his absence, the Acting 
+Secretary) is authorized: 
+(1) Under the provisions of part 261 of this chapter, to make 
+available, upon request, information in the records of the Board. 
+(2) Under the prd/isions of section 4(b) of the Federal Deposit 
+Insurance Act (12 U.S.C. 1814(b)), to certify to the Federal Deposit 
+Insurance Corporation that, with respect to the admission of a State-
+chartered bank to Federal Reserve membership, the factors specified in 
+section 6 of that Act (12 U.S.C, 1816) were considered. 
+
+(b) The General Counsel of the Board (or, in his absence, the 
+Acting General Counsel) is authorized: 
+(1) Under the provisions of section 2(g) of the Bank Holding 
+Company Act (12 U.S.C* 1841(g)), to determine whether a company that 
+transfers shares to any of the types of transferees specified therein 
+is incapable of controlling the transferee. 
+(2) Under the provisions of section 4(c)(8) of the Bank Holding 
+Company Act (12 U.S.C. 1843(c)), to determine that a company engaged in 
+activities of a financial, fiduciary, or insurance nature falls within 
+the exemption described therein permitting retention or acquisition of 
+control thereof by a bank holding company. 
+(3) Under the provisions of sections 1101-1103 of the Internal 
+Revenue Code (26 U.S.C. 1101-1103), to make certifications (prior and 
+final) for federal tax purposes with respect to distributions pursuant 
+to the Bank Holding Company Act. 
+(c) The Director of the Division of Examinations (or, in his 
+absence, the Acting Director) is authorized: 
+(1) Under the provisions of the seventh paragraph of section 9 
+°f the Federal Reserve Act (12 U.S.C. 325), to select or to approve the 
+appointment of Federal Reserve bank examiners, assistant examiners, and 
+special examiners. 
+(2) Under the provisions of the nineteenth paragraph of 
+section 25(a) of the Federal Reserve Act (12 U.S.C. 625) and section 211.9(e) 
+°f this chapter (Regulation K), to require submission and publication of 
+reports by an "Edge Act" corporation. 
+
+2249 
+-3-
+(3) Under the provisions of section 5 of the Bank Holding 
+Company Act (12 U.S.C. 1G44), after having received clearance from the 
+Bureau of the Budget (where necessary) and in accordance with the law 
+Administrative Procedure (5 U.S.C. 553), to promulgate registration, 
+annual report, and other forms for use in connection with the adminis-
+tration of such Act. 
+(4) Under the provisions of section 12(g) of the Securities 
+Exchange Act (15 U.S.C. 781(g)): 
+(i) to accelerate the effective date of a registration 
+statement filed by a member State bank with respect 
+to its securities; 
+(ii) to accelerate termination of the registration of 
+such a security that is no longer held of record 
+by 300 persons; and 
+(iii) to extend the time for filing a registration state-
+ment by a member State bank. 
+(5) Under the provisions of section 12(d) of the Securities 
+^change Act (15 U.S.C. 78JL(d)), to accelerate the effective date of 
+appli Catio n by a member State bank for registration of a security 
+°
+n
+ a national securities exchange. 
+(6) Under the provisions of section 12(f) of the Securities 
+Exchange Act (15 U.S.C. 701(f)), to issue notices with respect to an 
+Application by a national securities exchange for unlisted trading 
+Privileges in a security of a member State bank. 
+
+-4-
+(7) Under the provisions of section 12(h) of the Securities 
+Exchange Act (15 U.S.C. 781(h)), to issue notices with respect to an 
+a
+Pplication by a member State bank for exemption from registration. 
+(8) Under the provisions of section 206.5(f) and (i) of this 
+chapter (Regulation F), to permit the mailing of proxy and other 
+soliciting materials by a member State bank before the expiration of 
+time prescribed therein. 
+(9) Under the provisions of sections 206.41, 206.42, and 206.43 
+(Instructions as to Financial Statements 9, 4 , and 3, respectively) of 
+tl
+*is chapter (Regulation F), to permit the omission of financial state-
+ments from reports by a member State bank and/or to require other 
+financial statements in addition to, or in substitution for, the state-
+m
+ents required therein. 
+(d) The Director of the Division of Bank Operations (or, in 
+his absence, the Acting Director) is authorized: 
+(1) Under the provisions of the sixteenth paragraph of section 
+^ of the Federal Reserve Act (12 U.S.C, 304), to classify member banks 
+the purposes of electing Federal Reserve bank class A and class B 
+directors, giving consideration to (i) the statutory requirement that 
+e a
+c h of the three groups shall consist as nearly as may be of banks of 
+similar capitalization and (ii) the desirability that every member bank 
+h 
+a v
+e the opportunity to vote for a class A or a class B director at 
+e a
+s t once every three years. 
+
+2 t 5 i 
+-5-
+(2) Under the provisions of the third paragraph of section 16 
+of the Federal Reserve Act (12 U.S.C. 413), to apportion credit among the 
+Reserve banks for unfit notes that are destroyed, giving consideration to 
+the net number of notes of each denomination that were issued by each 
+Reserve bank during the preceding calendar year. 
+(3) Under the provisions of section 19(b) of the Federal 
+Reserve Act (12 U.S.C. 461) and section 204.2(a)(2) of this chapter 
+(Regulation D), to permit a member bank in a reserve city to maintain 
+reserves at the ratios prescribed for banks not in reserve cities, except 
+a bank with demand deposits larger than the amount of demand deposits of 
+the largest bank in the city that is permitted to maintain reserves at 
+such lower ratio, giving consideration to factors such as the amount of 
+the bank's resources, total deposits, demand deposits, demand deposits 
+owing to banks, types of depositors and borrowers, turnover of demand 
+deposits, geographical location within the city, and competitive position 
+with relation to other banks in the city. 
+(e) The Director of the Division of Personnel Administration 
+(or, in his absence, the Acting Director) is authorized, under the 
+Provisions of the twenty-first paragraph of section 4 of the Federal 
+Reserve Act (12 U.S.C. 306), to approve the appointment of assistant 
+Federal Reserve agents (including representatives and alternate repre-
+sentatives of such agents). 
+(f) Each Federal Reserve Bank is authorized, as to member 
+banks or other indicated organizations headquartered in its district: 
+
+2252 
+- 6 -
+(1) Under the provisions of the third paragraph of section 9 
+of the Federal Reserve Act (12 U.S.C. 321), section 5155 of the 
+Revised Statutes (12 U.S.C. 36), and section 208.8 of this chapter 
+(Regulation H), to permit a State member bank to establish a domestic 
+branch if: 
+(i) the bank's capitalization is adequate in relation 
+to the character and condition of its assets and to 
+its deposit liabilities and other corporate responsi-
+bilities, including the volume of its risk assets and 
+of its marginal and inferior quality assets, all 
+considered in relation to the strength of its 
+management; 
+(ii) the bank's management is adequate to all of its 
+responsibilities, has the ability to cope successfully 
+with existing or foreseeable problems, and has 
+sufficient depth to staff the proposed branch without 
+any significant deterioration in the overall manage-
+ment situation; 
+(iii) the convenience and needs of the community will be 
+better served if the proposed branch is established; 
+(iv) the establishment of the proposed branch will not tend 
+to create an undesirable competitive situation (either 
+actual or potential); 
+
+"
+7
+" 
+2 2 
+(v) there are good prospects for profitable operations 
+of the proposed branch within a reasonable time, and 
+the bank's earnings are adequate to sustain the 
+operational losses of the proposed branch until it 
+becomes profitable; 
+(vi) the bank's investment in bank premises after the 
+expenditure for the proposed branch will be reasonable; 
+(vii) counsel for the Reserve bank considers that establish-
+ment of the branch would be in conformity with the 
+provisions of section 5155 of the Revised Statutes 
+and section 208.8 of this chapter; and 
+(viii) the establishment of the proposed branch has been 
+approved by the appropriate State authority. 
+(2) Under the provisions of the sixth paragraph of section 9 
+of the Federal Reserve Act (12 U.S.C. 324) and the provisions of 
+section 5199 of the Revised Statutes (12 U.S.C. 60), to permit a State 
+member bank to declare dividends in excess of net profits for the 
+calendar year combined with its retained net profits of the preceding 
+two years, less any required transfers to surplus or a fund for the 
+retirement of any preferred stock, if: 
+(i) the bank's capitalization is adequate in relation 
+to the character and condition of its assets and to 
+its deposit liabilities and other corporate responsi-
+bilities, including the volume of its risk assets 
+and of its marginal and inferior quality assets, 
+all considered in relation to the strength of its 
+management; and 
+
+2254 
+-8-
+(ii) after payment of the proposed dividend, the bank's 
+capitalization would still be adequate in accord-
+ance with such considerations* 
+(3) Under the provisions of the tenth paragraph of section 9 
+of the Federal Reserve Act (12 U.S.C, 328), to waive six months' 
+notice by a bank of its intention to withdraw from Federal Reserve 
+membership• 
+(4) Under the provisions of the eleventh paragraph of 
+section 9 of the Federal Reserve Act (12 U.S.C. 329), to permit a State 
+member bank to reduce its capital stock if its capitalization thereafter 
+will be: 
+(i) in conformity with the requirements of federal 
+law, and 
+(ii) adequate in relation to the character and condition 
+of its assets and to its deposit liabilities and 
+V 
+other corporate responsibilities, including the 
+volume of its risk assets and of its marginal and 
+inferior quality assets, all considered in relation 
+to the strength of its management. 
+(5) Under the provisions of the seventeenth paragraph of 
+section 9 of the Federal Reserve Act (12 U.S.C. 334), to extend the time, 
+for good cause shown, within which an affiliate of a State member bank 
+g 
+• 
+- \ 
+must file reports. 
+(6) Under the provisions of the seventh paragraph of section 13 
+of the Federal Reserve Act (12 U.S.C. 372), to permit a member bank to 
+accept commercial drafts in an aggregate amount at any one time up to 
+100 per cent of its capital and surplus. 
+
+2255 
+-9-
+(7) Under the provisions of section 24A of the Federal Reserve 
+Act (12 U.S.C. 371d), to permit a State member bank to invest in bank 
+Premises in an amount in excess of its capital stock, if: 
+(i) the bank's capitalization is adequate in ralation to the 
+character and condition of its assets and to its deposit 
+liabilities and other corporate responsibilities, 
+including the volume of its risk assets and of its 
+marginal and inferior quality assets, all considered 
+in relation to the strength of its management; and 
+(ii) upon completion of the proposed investment, the bank's 
+aggregate investment (direct and indirect) in bank 
+premises plus the indebtedness of any wholly-owned 
+bank premises subsidiary will not exceed 40 per cent 
+of its total capital funds (including capital notes 
+and debentures) plus reserves other than valuation 
+reserves. 
+(8) Under the provisions of the ninth paragraph of section 25(a) 
+the Federal Reserve Act (12 U.S.C. 615), to extend the time in which 
+"Edge Act" corporation must divest itself of stock acquired in satis-
+faction of a debt previously contracted. 
+(9) Under the provisions of the twenty-second paragraph of 
+Action 25(a) of the Federal Reserve Act (12 U.S.C. 628), to extend the 
+Period of corporate existence of an "Edge Act" corporation. 
+(10) Under the provisions of section 5(a) of the Bank Holding 
+Comp a ny Act (12 U.S.C. 1844(a)), to extend the time within which a bank 
+holding company must file a registration statement. 
+
+- 1 0 -
+2258 
+(11) Under the provisions of section 4(a) of the Bank Holding 
+Company Act (12 U.S.C. 1843(a)), to extend the time within which a bank 
+holding company must divest itself of interests in nonbanking organi-
+zations. 
+(12) Under the provisions of section 4(c)(2) of the Bank Holding 
+Company Act (12 U.S.C. 1843(c)), to extend the time within which a bank 
+holding company must divest itself of interests in a nonbanking organi-
+zation acquired In satisfaction of a debt previously contracted. 
+(13) Under the provisions of section 5(c) of the Bank Holding 
+Company Act (12 U.S.C. 1844(c)), to require reports under oath to 
+determine whether a company is complying with the provisions of such 
+Act and the Board's regulations promulgated thereunder. 
+§ 265.3 Review of action at delegated level. 
+Any action taken at a delegated level shall be subject to 
+review by the Board only if such review is requested by a member of the 
+Board either on his own initiative or on the basis of a petition for 
+review by any person claiming to be adversely affected by the action. 
+A
+ny such petition for review must be received by the Secretary of the 
+Board not later than the fifth day after the date of such action. Notice 
+°f any such review shall be given to the person with respect to whom such 
+a
+ction was taken and be received by such person not later than the close 
+the tenth day following the date of such action. Upon receipt of 
+®uch notice, such person shall not proceed further in reliance upon such 
+a
+ctton until he is notified of the outcome of review thereof by the Board. 
+
+DELEGATION BY THE BOARD OF GOVERNORS 
+OF CERTAIN FUNCTIONS OF A NONSTATUTORY AND NONREGULATION NATURE 
+Effective July 1, 1967, the Board of Governors delegates 
+authority to exercise those of its nonstatutory and nonregulation 
+functions set forth below, subject to the limitations and guidelines 
+indicated. A delegee may submit any matter to the Board for deter-
+mination if he considers such submission appropriate because of the 
+importance or complexity of the matter. 
+(a) The Board member responsible for internal affairs is 
+authorized to approve foreign travel by members of the Board's staff, 
+except where travel of unusual nature is involved. 
+(b) The General Counsel (or, in his absence, the Acting 
+General Counsel) is authorized: 
+(1) To approve agreements under which Reserve banks perform 
+fiscal agency functions, except those for the United States Treasury 
+Pursuant to section 15 of the Federal Reserve Act, 
+(2) To extend the time within which briefs, argument, data, 
+etc., may be submitted with respect to the Board's administrative 
+Proceedings, 
+(3) To approve, up to $50,000, the compensation to be paid 
+by a Reserve bank for special counsel, 
+(c) The Director of the Division of Examinations (or, in his 
+absence, the Acting Director) is authorized: 
+(1) To promulgate the form of the report of an examination 
+°f an "Edge Act" corporation, 
+(2) To promulgate the form of the report of an examination 
+°f a State member bank, 
+(3) To inform the Federal Deposit Insurance Corporation as 
+to compliance by a bank with conditions imposed on withdrawal from 
+membership. 
+(d) The Director of the Division of Bank Operations (or, in 
+his absence, the Acting Director) is authorized: 
+(1) To modify the Reserve Bank Accounting Manual (after 
+considering the views of the Subcommittee on Accounting of the Committee 
+°n Systems, Procedures, and Accounting of the Conference of Presidents) 
+in accordance with generally accepted accounting practices for banks, 
+except that the following will not be authorized: 
+(i) reserves for 
+contingencies, (ii) charge-offs of land to below estimated market value, 
+
+2258 
+-2-
+(iii) charge-offs of buildings, or special additions to allowances for 
+depreciation, that would result in full depreciation before 40 years 
+after the date of completion of the structure, and (iv) write-down of 
+Government securities below cost, including establishment of a valua-
+tion reserve. 
+(2) To exercise supervision over the following matters relating 
+to Federal Reserve notes: 
+(i) printing orders and (ii) contracts for 
+shipment, giving consideration to, respectively, (i) the desirability 
+of maintaining a two-year reserve supply of $5 to $100 notes and a 
+one-year supply of $1 notes and (ii) awarding contracts to the lowest 
+bidder determined to be qualified. 
+(
+e
+) Each Federal Reserve Bank is authorized, as to member 
+banks or other indicated organizations headquartered in its district: 
+(1) To extend the time within which a bank holding company 
+may acquire shares in connection with an application approved by the 
+Board, if no material change has occurred in the company's general 
+condition since such application was approved. 
+(2) To extend the time within which a bank holding company 
+must file its annual report. 
+(3) To extend the time within which (i) a State member bank 
+may establish a domestic branch, (ii) a member bank may establish a 
+foreign branch, or (iii) an "Edge Act" or "Agreement" corporation may 
+establish a branch or agency, if no material change has occurred in 
+the bank's (or corporation's) general condition since the application 
+Was approved. 
+(4) To extend the time within which an "Edge Act" or "Agree-
+ment" corporation may accomplish a purchase of stock that has been 
+authorized by the Board, if no material change has occurred in the 
+corporation's general condition since such authorization. 
+(5) To extend the time within which Federal Reserve member-
+ship must be accomplished, if no material change has occurred in the 
+bank's general condition since the application was approved. 
+(6) To waive the penalty for deficient reserves by a member 
+hank if, after a review of all the circumstances relating to such de-
+ficiency, the Reserve bank concludes that waiver of the penalty is 
+Warranted, except that in no case shall a penalty for deficient reserves 
+be waived if the deficiency arises out of the bank's gross negligence 
+°r conduct inconsistent with the principles and purposes of reserve 
+requirements. (KOTE: This supersedes the instructions contained in 
+F
+.R.L.S. #6120.) 
+
+o o t u 
+Item No. 3 
+6/5/67 
+June 8, 1967 
+For release in morning papers, 
+Monday, June 12, 1967. 
+The Board of Governors of the Federal Reserve System today 
+announced it was delegating, effective July 1, 1967, certain of its 
+administrative and bank supervisory functions to the Federal Reserve 
+Banks and to specified officials on the Board's staff. 
+The action, which marks the initial implementation of 
+authority granted to the Board by the Congress in November 1966, takes 
+the form of a new regulation, "Rules Regarding Delegation of Authority." 
+Ihe handling of several types of administrative action, in accordance 
+with standards prescribed in the regulation, will be expedited by the 
+n
+ew procedure. 
+Authority to approve domestic branches of State-chartered 
+member banks is among the more significant matters delegated by the 
+Board--in this case to the Federal Reserve Banks. Examples of other 
+delegated actions, which formerly required specific Board approval, 
+include extensions of time for registration by a bank holding company, 
+extensions of time for registration of securities of State member banks, 
+Waiver of the six months 
+notice that a State member bank must give 
+before withdrawing from membership, approval of an investment by a State 
+Member bank in bank premises in excess of its capital stock, and the 
+declaration of dividends by a State member bank in certain circumstances. 
+The new regulation provides for review by the Board of Governors 
+any action taken by those to whom authority has been delegated in the 
+event that any person claims to have been adversely affected. 
+
+i 22RO 
+-2-
+It is expected that the efficient and expeditious performance 
+of the Board's major responsibilities, both in the field of monetary and 
+credit policy and in the field of bank supervision and regulation, will 
+be facilitated by the delegation of many functions that formerly had to 
+• . •. 
+be performed in all cases by the Board itself. 
+Attached is a copy of the new regulation as sent to the 
+Federal Register. 
+- 0 -
+Attachment 

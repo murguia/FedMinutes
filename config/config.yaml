@@ -1,0 +1,45 @@
+# Configuration for Fed Minutes Analysis
+
+paths:
+  pdf_dir: "data/raw/PDFs"
+  txt_dir: "data/raw/TXTs"
+  processed_dir: "data/processed"
+  vector_db: "data/vector_db/chromadb"
+
+parsing:
+  min_attendees_threshold: 3
+  min_decisions_threshold: 1
+  
+embedding:
+  model: "all-MiniLM-L6-v2"
+  chunk_size: 1000
+  chunk_overlap: 200
+  
+llm:
+  provider: "ollama"  # options: "openai", "anthropic", "ollama"
+  model: "phi3:mini"  # Now using Microsoft's fast Phi-3 model
+  temperature: 0.1
+  max_tokens: 1000
+  base_url: "http://localhost:11434"  # Only used for Ollama
+  
+# Ollama model examples (uncomment and set provider to "ollama" to use):
+# llm:
+#   provider: "ollama"
+#   model: "mistral:7b"      # Excellent for analysis, 4GB RAM
+#   # model: "llama3:8b"     # Latest Meta model, 8GB RAM  
+#   # model: "phi3:mini"     # Microsoft, very efficient, 2GB RAM
+#   # model: "gemma:7b"      # Google, good instruction following, 4GB RAM
+#   temperature: 0.1
+#   max_tokens: 1000
+#   base_url: "http://localhost:11434"
+
+analysis:
+  start_date: "1968-01-01"
+  end_date: "1973-12-31"
+  focal_events:
+    - date: "1971-08-15"
+      name: "Nixon Shock"
+    - date: "1973-03-01"
+      name: "Bretton Woods Collapse"
+
+
